@@ -1,0 +1,12 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="monochromeIcons" value="true" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="accentColor" value="d33682" />
+    <option name="selectedTheme" value="SOLARIZED_DARK" />
+    <option name="userId" value="22505bba:167a8fb70a7:-8000" />
+    <option name="version" value="3.1.0" />
+  </component>
+</application>
