@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1547505961976">
+      <file name="/Dummy.txt" timestamp="1547507080693">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/school_rcos/bitmex-bot/bitmex_bot/utils/errors.py" timestamp="1544728677930">
@@ -87,6 +87,9 @@
         <mark key="]" line="26" column="40" />
         <mark key="^" line="26" column="40" />
         <mark key="." line="26" column="40" />
+      </file>
+      <file name="/fragment.java" timestamp="1547507094762">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
