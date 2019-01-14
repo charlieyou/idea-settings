@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1544839340279">
+      <file name="/Dummy.txt" timestamp="1547505961976">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/school_rcos/bitmex-bot/bitmex_bot/utils/errors.py" timestamp="1544728677930">
@@ -166,7 +166,6 @@
         <entry>:noh</entry>
       </history-search>
       <history-cmd>
-        <entry>bn</entry>
         <entry>bnext</entry>
         <entry>CtrlPBuffer</entry>
         <entry>s</entry>
