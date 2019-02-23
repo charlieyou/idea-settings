@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1550873510962">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/school_rcos/bitmex-bot/bitmex_bot/utils/errors.py" timestamp="1544728677930">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="9" column="8" />
@@ -17,12 +14,6 @@
         <mark key="[" line="2" column="6" />
         <mark key="]" line="2" column="6" />
         <mark key="." line="2" column="6" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/school_rcos/bitmex-bot/bitmex_bot/order_manager/bitmex_order_manager.py" timestamp="1544728627804">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="12" />
-        <mark key="^" line="8" column="12" />
-        <mark key="." line="8" column="12" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/school_rcos/bitmex-bot/bitmex_bot/data_manager/data_manager.py" timestamp="1544729914366">
         <mark key="[" line="5" column="5" />
@@ -47,12 +38,6 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/1/src/main/java/hw0/Ball.java" timestamp="1548875053159">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="31" column="7" />
-      </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/school_rcos/bitmex-bot/bitmex_bot/data_manager/__init__.py" timestamp="1544729090068">
         <mark key="[" line="0" column="37" />
         <mark key="]" line="0" column="37" />
@@ -65,11 +50,11 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/3/src/main/java/hw3/RatPoly.java" timestamp="1550874255875">
-        <mark key="[" line="71" column="9" />
-        <mark key="]" line="71" column="9" />
-        <mark key="." line="71" column="9" />
-        <mark key="^" line="71" column="9" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/3/src/main/java/hw3/RatPoly.java" timestamp="1550880575467">
+        <mark key="[" line="415" column="0" />
+        <mark key="]" line="421" column="63" />
+        <mark key="^" line="222" column="9" />
+        <mark key="." line="415" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/school_comporg/project/instruction.py" timestamp="1544924487413">
         <mark key="[" line="0" column="0" />
@@ -77,23 +62,62 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/2/answers/reflection.txt" timestamp="1550872872916">
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="10" />
-        <mark key="^" line="2" column="10" />
-        <mark key="." line="2" column="10" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/3/answers/problem3.txt" timestamp="1550875480834">
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/3/answers/problem3.txt" timestamp="1550880255375">
         <mark key="'" line="29" column="2" />
-        <mark key="[" line="36" column="7" />
-        <mark key="]" line="36" column="8" />
-        <mark key="^" line="36" column="6" />
-        <mark key="." line="36" column="8" />
+        <mark key="[" line="61" column="42" />
+        <mark key="]" line="61" column="41" />
+        <mark key="." line="61" column="41" />
+        <mark key="^" line="61" column="41" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/school_rcos/bitmex-bot/bitmex_bot/connectors/connector.py" timestamp="1545079921400">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/school_comporg/project/p1.py" timestamp="1544906847542">
+        <mark key="[" line="19" column="53" />
+        <mark key="]" line="19" column="53" />
+        <mark key="^" line="19" column="53" />
+        <mark key="." line="19" column="53" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/school_rcos/bitmex-bot/bitmex_bot/settings.py" timestamp="1544727993112">
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="24" column="35" />
+        <mark key="^" line="24" column="35" />
+        <mark key="." line="24" column="35" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/school_rcos/bitmex-bot/bitmex_bot/order_manager/order_manager.py" timestamp="1544728809054">
+        <mark key="[" line="26" column="46" />
+        <mark key="]" line="26" column="40" />
+        <mark key="^" line="26" column="40" />
+        <mark key="." line="26" column="40" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1550880626546">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/school_rcos/bitmex-bot/bitmex_bot/order_manager/bitmex_order_manager.py" timestamp="1544728627804">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="12" />
+        <mark key="^" line="8" column="12" />
+        <mark key="." line="8" column="12" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/1/src/main/java/hw0/Ball.java" timestamp="1548875053159">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="31" column="7" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1550880573301">
+        <mark key="[" line="423" column="0" />
+        <mark key="]" line="429" column="63" />
+        <mark key="." line="670" column="1" />
+        <mark key="^" line="670" column="1" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/2/answers/reflection.txt" timestamp="1550872872916">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="10" />
+        <mark key="^" line="2" column="10" />
+        <mark key="." line="2" column="10" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/1/src/main/java/hw0/Box.java" timestamp="1547515688360">
         <mark key="'" line="77" column="26" />
@@ -107,12 +131,6 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/school_comporg/project/p1.py" timestamp="1544906847542">
-        <mark key="[" line="19" column="53" />
-        <mark key="]" line="19" column="53" />
-        <mark key="^" line="19" column="53" />
-        <mark key="." line="19" column="53" />
-      </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/school_rcos/bitmex-bot/bitmex_bot/data_manager/bitmex_data_manager.py" timestamp="1544729445047">
         <mark key="[" line="8" column="12" />
         <mark key="]" line="8" column="12" />
@@ -124,18 +142,6 @@
         <mark key="]" line="4" column="13" />
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/school_rcos/bitmex-bot/bitmex_bot/settings.py" timestamp="1544727993112">
-        <mark key="[" line="24" column="36" />
-        <mark key="]" line="24" column="35" />
-        <mark key="^" line="24" column="35" />
-        <mark key="." line="24" column="35" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/school_rcos/bitmex-bot/bitmex_bot/order_manager/order_manager.py" timestamp="1544728809054">
-        <mark key="[" line="26" column="46" />
-        <mark key="]" line="26" column="40" />
-        <mark key="^" line="26" column="40" />
-        <mark key="." line="26" column="40" />
       </file>
       <file name="/fragment.java" timestamp="1550873513364">
         <mark key="[" line="0" column="0" />
@@ -163,46 +169,47 @@
       <jump line="33" column="13" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/3/answers/problem3.txt" />
       <jump line="41" column="16" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/3/answers/problem3.txt" />
       <jump line="29" column="2" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/3/answers/problem3.txt" />
+      <jump line="2" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Substitute:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaWxsIGluIHRoaXMgbWV0aG9kLCB0aGVuIHJlbW92ZSB0aGUgUnVudGltZUV4Y2VwdGlvbgogICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJSYXRQb2x5LmludGVncmF0ZSgpIGlzIG5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>Substitute:</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN5cy5zdGRvdXQud3JpdGUoInt9ID0ge31cbiIuZm9ybWF0KHJlZywgdmFsKSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5pc05hTigpIHx8IERvdWJsZS5pc05hTihsb3dlckJvdW5kKSB8fCBEb3VibGUuaXNOYU4odXBwZXJCb3VuZCkpIHsKICAgICAgICAJcmV0dXJuIERvdWJsZS5OYU47CiAgICAgICAgfQoKICAgICAgICBSYXRQb2x5IGFudGlEID0gdGhpcy5hbnRpRGlmZmVyZW50aWF0ZShSYXROdW0uWkVSTyk7CgogICAgICAgIHJldHVybiBhbnRpRC5ldmFsKHVwcGVyQm91bmQpIC0gYW50aUQuZXZhbChsb3dlckJvdW5kKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">T3VyIGludmFyaWFudDoK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaWxsIGluIHRoaXMgbWV0aG9kLCB0aGVuIHJlbW92ZSB0aGUgUnVudGltZUV4Y2VwdGlvbgogICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJSYXRQb2x5LmludGVncmF0ZSgpIGlzIG5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">YSBsaXN0IGZ1bGwgb2YgY29uc3RhbnRzLiBIb3dldmVyIHdlIGtub3cgdGhhdCBkdWUgdG8gdGhpcyBsaW5lOgp0ZW1wID0gbGVhZGluZ0NvKHIpL2xlYWRpbmdDbyh2KQpUaGV5IGFyZSBkaXZpZGVkIGJ5IHYsIG9yIHEgaXMg</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaWxsIGluIHRoaXMgbWV0aG9kLCB0aGVuIHJlbW92ZSB0aGUgUnVudGltZUV4Y2VwdGlvbgogICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKAogICAgICAgICAgICAgICAgIlJhdFBvbHktPmFudGlEaWZmZXJlbnRpYXRlKCkgdW5pbXBsZW1lbnRlZCEiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGVtcCBpcyBhIGZhY3RvciBvZiB1Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaWxsIGluIHRoaXMgbWV0aG9kLCB0aGVuIHJlbW92ZSB0aGUgUnVudGltZUV4Y2VwdGlvbgogICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJSYXRQb2x5LmRpZmZlcmVudGlhdGUoKSBpcyBub3QgeWV0IGltcGxlbWVudGVkIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJvb2YuCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaWxsIGluIHRoaXMgbWV0aG9kLCB0aGVuIHJlbW92ZSB0aGUgUnVudGltZUV4Y2VwdGlvbgogICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJSYXRQb2x5LmV2YWwoKSBpcyBub3QgeWV0IGltcGxlbWVudGVkIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">V2Ugc2VlIHRoYXQgciBpcyBzdWJ0cmFjdGluZyBvZmYgdGVtcCAqIHYuIFdlIGtub3cgZnJvbSB0aGlzIGxpbmU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaWxsIGluIHRoaXMgbWV0aG9kLCB0aGVuIHJlbW92ZSB0aGUgUnVudGltZUV4Y2VwdGlvbgogICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJSYXRQb2x5LT5kaXYoKSBpcyBub3QgeWV0IGltcGxlbWVudGVkIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">V2VsbCB3ZSBoYXZlIHRoaXMgbGluZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Rm9yIHRoaXMgcGFydCB3ZSByZWFzb24gdGhhdCBhbGwgdGhlIHNhbWUgbG9naWMgaGFwcGVucywgZXhjZXB0IGF0IHRoZSBlbmQsIHIgPcy4IDAuIFNvIHdoYXQgaXMgcj8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U3RlcCAzOiBTaG93IHRoYXQgdXBvbiBleGl0aW5nIHRoZSBsb29wLCB0aGUgaW52YXJpYW50IHN0aWxsIGhvbGRzIHRydWU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaWxsIGluIHRoaXMgbWV0aG9kLCB0aGVuIHJlbW92ZSB0aGUgUnVudGltZUV4Y2VwdGlvbgogICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJSYXRQb2x5LT5tdWwoKSBpcyBub3QgeWV0IGltcGxlbWVudGVkIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">V2Ugbm90aWNlIHRoYXQgdmsgPSBrdiBkdWUgdG8gdGhlIGRlZmluaXRpb24gb2YgbXVsdGlwbGljYXRpb24sIHRodXMgdmsgLSBrdiA9IDAgQ29udGludWluZwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaWxsIGluIHRoaXMgbWV0aG9kLCB0aGVuIHJlbW92ZSB0aGUgUnVudGltZUV4Y2VwdGlvbgogICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJSYXRQb2x5LT5zdWIoKSBpcyBub3QgeWV0IGltcGxlbWVudGVkIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
