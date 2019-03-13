@@ -119,6 +119,12 @@
         <mark key="." line="670" column="1" />
         <mark key="^" line="670" column="1" />
       </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw4/Graph.java" timestamp="1552498225695">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+      </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/2/answers/reflection.txt" timestamp="1550872872916">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="10" />
@@ -149,8 +155,20 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw4/Node.java" timestamp="1552498270674">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1552494056403">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw4/Edge.java" timestamp="1552496322527">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="2" />
+        <mark key="^" line="3" column="2" />
+        <mark key="." line="3" column="2" />
       </file>
     </filemarks>
     <jumps>
@@ -176,46 +194,47 @@
       <jump line="41" column="16" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/3/answers/problem3.txt" />
       <jump line="29" column="2" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/3/answers/problem3.txt" />
       <jump line="2" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+      <jump line="24" column="6" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw4/Graph.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaWxsIGluIHRoaXMgbWV0aG9kLCB0aGVuIHJlbW92ZSB0aGUgUnVudGltZUV4Y2VwdGlvbgogICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJSYXRQb2x5LmludGVncmF0ZSgpIGlzIG5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5pc05hTigpIHx8IERvdWJsZS5pc05hTihsb3dlckJvdW5kKSB8fCBEb3VibGUuaXNOYU4odXBwZXJCb3VuZCkpIHsKICAgICAgICAJcmV0dXJuIERvdWJsZS5OYU47CiAgICAgICAgfQoKICAgICAgICBSYXRQb2x5IGFudGlEID0gdGhpcy5hbnRpRGlmZmVyZW50aWF0ZShSYXROdW0uWkVSTyk7CgogICAgICAgIHJldHVybiBhbnRpRC5ldmFsKHVwcGVyQm91bmQpIC0gYW50aUQuZXZhbChsb3dlckJvdW5kKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiTm90IGltcGxlbWVudGVkLiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaWxsIGluIHRoaXMgbWV0aG9kLCB0aGVuIHJlbW92ZSB0aGUgUnVudGltZUV4Y2VwdGlvbgogICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJSYXRQb2x5LmludGVncmF0ZSgpIGlzIG5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaWxsIGluIHRoaXMgbWV0aG9kLCB0aGVuIHJlbW92ZSB0aGUgUnVudGltZUV4Y2VwdGlvbgogICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKAogICAgICAgICAgICAgICAgIlJhdFBvbHktPmFudGlEaWZmZXJlbnRpYXRlKCkgdW5pbXBsZW1lbnRlZCEiKTsK</text>
+        <text encoding="base64">ICAgIC8vIEFkamFjZW5jeSBsaXN0IHRvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaWxsIGluIHRoaXMgbWV0aG9kLCB0aGVuIHJlbW92ZSB0aGUgUnVudGltZUV4Y2VwdGlvbgogICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJSYXRQb2x5LmRpZmZlcmVudGlhdGUoKSBpcyBub3QgeWV0IGltcGxlbWVudGVkIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaWxsIGluIHRoaXMgbWV0aG9kLCB0aGVuIHJlbW92ZSB0aGUgUnVudGltZUV4Y2VwdGlvbgogICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJSYXRQb2x5LmV2YWwoKSBpcyBub3QgeWV0IGltcGxlbWVudGVkIik7Cg==</text>
+        <text encoding="base64">ICAgIEFic3RyYWN0aW9uIGZ1bmN0aW9uOgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaWxsIGluIHRoaXMgbWV0aG9kLCB0aGVuIHJlbW92ZSB0aGUgUnVudGltZUV4Y2VwdGlvbgogICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJSYXRQb2x5LT5kaXYoKSBpcyBub3QgeWV0IGltcGxlbWVudGVkIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaWxsIGluIHRoaXMgbWV0aG9kLCB0aGVuIHJlbW92ZSB0aGUgUnVudGltZUV4Y2VwdGlvbgogICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJSYXRQb2x5LT5tdWwoKSBpcyBub3QgeWV0IGltcGxlbWVudGVkIik7Cg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaWxsIGluIHRoaXMgbWV0aG9kLCB0aGVuIHJlbW92ZSB0aGUgUnVudGltZUV4Y2VwdGlvbgogICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJSYXRQb2x5LT5zdWIoKSBpcyBub3QgeWV0IGltcGxlbWVudGVkIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -279,6 +298,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
