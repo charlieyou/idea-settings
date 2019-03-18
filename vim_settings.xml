@@ -19,11 +19,11 @@
         <mark key="^" line="9" column="8" />
         <mark key="." line="9" column="8" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/queue.py" timestamp="1552863307271">
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="7" column="36" />
-        <mark key="^" line="7" column="36" />
-        <mark key="." line="7" column="36" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/queue.py" timestamp="1552869177764">
+        <mark key="[" line="79" column="52" />
+        <mark key="]" line="80" column="33" />
+        <mark key="." line="80" column="33" />
+        <mark key="^" line="80" column="33" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/school_rcos/bitmex-bot/settings.py" timestamp="1544728012594">
         <mark key="[" line="2" column="6" />
@@ -74,23 +74,23 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/process.py" timestamp="1552861400359">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="3" column="37" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/process.py" timestamp="1552868283758">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="7" column="35" />
+        <mark key="." line="7" column="35" />
+        <mark key="^" line="7" column="35" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/rand48.py" timestamp="1552846010330">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/cpu_simulator.py" timestamp="1552863141824">
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/cpu_simulator.py" timestamp="1552866189716">
         <mark key="'" line="42" column="43" />
-        <mark key="[" line="42" column="54" />
-        <mark key="]" line="42" column="54" />
-        <mark key="." line="42" column="54" />
-        <mark key="^" line="42" column="54" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="26" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/school_rcos/bitmex-bot/bitmex_bot/connectors/connector.py" timestamp="1545079921400">
         <mark key="[" line="11" column="0" />
@@ -157,46 +157,49 @@
       <jump line="6" column="17" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/queue.py" />
       <jump line="43" column="43" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/cpu_simulator.py" />
       <jump line="20" column="8" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/queue.py" />
+      <jump line="48" column="18" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/queue.py" />
+      <jump line="63" column="7" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/queue.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/queue.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETwogICAgICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>J</text>
       </register>
       <register name="/" type="4">
         <text>:noh</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8KICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgX19lcV9fKHNlbGYsIG90aGVyKToKICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETwogICAgICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmNsYXNzIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGdldF9xdWV1ZShhbGdvLCBwcm9jZXNzZXMpOgogICAgcHJvY2Vzc2VzID0gZGVlcGNvcHkocHJvY2Vzc2VzKSAKICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBpZiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmNsYXNzIFF1ZXVlOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHByb2Nlc3NlcywgKiprd2FyZ3MpOgogICAgICAgIHNlbGYucHJvY2Vzc2VzID0gcHJvY2Vzc2VzCiAgICAgICAgc2VsZi5yZWFkeV9xdWV1ZSA9IGRlcXVlKCkKCiAgICAgICAgc2VsZi50Y3MgPSBrd2FyZ3NbJ3RjcyddCiAgICAgICAgc2VsZi5hbHBoYSA9IGt3YXJnc1snYWxwaGEnXQogICAgICAgIGlmIGt3YXJnc1sncnJfZGlyJ106CiAgICAgICAgICAgIHNlbGYucnJfZGlyID0ga3dhcmdzWydycl9kaXInXQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYucnJfZGlyID0gJ0VORCcKCiAgICBkZWYgZW1wdHkoc2VsZik6CiAgICAgICAgIyBUT0RPCiAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIGNwdSBidXJzdCBjb21wbGV0ZWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVxdWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBjb3B5IGltcG9ydCBkZWVwY29weQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFsZ28gPSBhbGdvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETwogICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
@@ -258,6 +261,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
