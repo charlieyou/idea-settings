@@ -15,60 +15,64 @@
         <mark key="^" line="39" column="29" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/queue.py" timestamp="1552932019085">
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="9" column="3" />
-        <mark key="." line="9" column="3" />
-        <mark key="^" line="9" column="3" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/queue.py" timestamp="1553194542945">
+        <mark key="'" line="142" column="27" />
+        <mark key="[" line="162" column="45" />
+        <mark key="]" line="162" column="55" />
+        <mark key="." line="162" column="55" />
+        <mark key="^" line="162" column="55" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/cpu_simulator.py" timestamp="1552933422159">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="49" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/stat_logger.py" timestamp="1552933574613">
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="1" column="28" />
-        <mark key="." line="1" column="28" />
-        <mark key="^" line="1" column="28" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/stat_logger.py" timestamp="1553193624175">
+        <mark key="[" line="1" column="44" />
+        <mark key="]" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+        <mark key="^" line="2" column="23" />
       </file>
       <file name="/" timestamp="1552932411040">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="139" column="27" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/queue.py" />
+      <jump line="2" column="24" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/queue.py" />
+    </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgYWxnbyBpbiBbJ1NKRicsICdTUlQnLCAnRkNGUycsICdSUiddOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlYWR5X3F1ZXVlID0gUHJpb3JpdHlRdWV1ZSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgYWxnbyBpbiBbJ1NKRicsICdTUlQnLCAnRkNGUycsICdSUiddOgo=</text>
+        <text encoding="base64">ICAgICMgVE9ETyBjaGFuZ2UgcmVhZHkgcXVldWUgdG8gZGVxdWUgYW5kIGFkZCByci1kaXIK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgVE9ETyBjaGFuZ2UgcmVhZHkgcXVldWUgdG8gZGVxdWUgYW5kIGFkZCByci1kaXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgYWxnbyBpbgo=</text>
+        <text encoding="base64">ICAgICAgICBzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlYWR5X3F1ZXVlID0gUHJpb3JpdHlRdWV1ZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiLCBzdHIoc2VsZi50dXJuYXJvdW5kcyAvIHNlbGYudHVybmFyb3VuZF9jb3VudCksICJtcyIpCiAgICAgICAgcHJpbnQoIiwgc3RyKHNlbGYuY29udGV4dF9zd2l0Y2hlcykpCiAgICAgICAgcHJpbnQoLCBzdHIoc2VsZi5wcmVlbXB0cykpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgYWxnbyBpbiBbJ1NKRicsICdTUlQnLCAnRkNGUycsICdSUiddOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgsIHN0cihzZWxmLndhaXRzIC8gc2VsZi53YWl0X2NvdW50KSwgIm1zIikK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgYWxnbyBpbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmbmFtZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnR1cm5hcm91bmRfY291bnQgKz0gMQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiLCBzdHIoc2VsZi50dXJuYXJvdW5kcyAvIHNlbGYudHVybmFyb3VuZF9jb3VudCksICJtcyIpCiAgICAgICAgcHJpbnQoIiwgc3RyKHNlbGYuY29udGV4dF9zd2l0Y2hlcykpCiAgICAgICAgcHJpbnQoLCBzdHIoc2VsZi5wcmVlbXB0cykpCg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -78,13 +82,24 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
