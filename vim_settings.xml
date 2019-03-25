@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/project1.py" timestamp="1552933596546">
-        <mark key="[" line="45" column="25" />
-        <mark key="]" line="46" column="35" />
-        <mark key="^" line="46" column="35" />
-        <mark key="." line="46" column="35" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/project1.py" timestamp="1553522402330">
+        <mark key="[" line="51" column="9" />
+        <mark key="]" line="51" column="14" />
+        <mark key="." line="51" column="14" />
+        <mark key="^" line="51" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/process.py" timestamp="1552932092191">
         <mark key="[" line="85" column="0" />
@@ -22,15 +22,15 @@
         <mark key="." line="162" column="55" />
         <mark key="^" line="162" column="55" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/cpu_simulator.py" timestamp="1552933422159">
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/cpu_simulator.py" timestamp="1553522495594">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="49" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/stat_logger.py" timestamp="1553193624175">
-        <mark key="[" line="1" column="44" />
-        <mark key="]" line="2" column="23" />
-        <mark key="." line="2" column="23" />
-        <mark key="^" line="2" column="23" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/stat_logger.py" timestamp="1553523065224">
+        <mark key="[" line="56" column="58" />
+        <mark key="]" line="56" column="53" />
+        <mark key="." line="56" column="53" />
+        <mark key="^" line="56" column="53" />
       </file>
       <file name="/" timestamp="1552932411040">
         <mark key="[" line="0" column="0" />
@@ -42,45 +42,45 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlYWR5X3F1ZXVlID0gUHJpb3JpdHlRdWV1ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJ1cnN0c1thbGdvXSA9IDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgVE9ETyBjaGFuZ2UgcmVhZHkgcXVldWUgdG8gZGVxdWUgYW5kIGFkZCByci1kaXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgVE9ETyBjaGFuZ2UgcmVhZHkgcXVldWUgdG8gZGVxdWUgYW5kIGFkZCByci1kaXIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZQo=</text>
+        <text encoding="base64">ICAgICAgICBidXJzdF9hdmcgPSBzZWxmLmJ1cnN0cyAvIHNlbGYubnVtX3Byb2Nlc3NlcwogICAgICAgIHdhaXRfYXZnID0gc2VsZi53YWl0cyAvIHNlbGYubnVtX3Byb2Nlc3NlcwogICAgICAgIHR1cm5hcm91bmRfYXZnID0gc2VsZi50dXJuYXJvdW5kcyAvIHNlbGYubnVtX3Byb2Nlc3NlcwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlYWR5X3F1ZXVlID0gUHJpb3JpdHlRdWV1ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgYnVyc3QgaW4gcHJvY2Vzcy5jcHVfYnVyc3RzOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgYWxnbyBpbiBbJ1NKRicsICdTUlQnLCAnRkNGUycsICdSUiddOgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgYWxnbyBpbgo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiLCBzdHIoc2VsZi50dXJuYXJvdW5kcyAvIHNlbGYudHVybmFyb3VuZF9jb3VudCksICJtcyIpCiAgICAgICAgcHJpbnQoIiwgc3RyKHNlbGYuY29udGV4dF9zd2l0Y2hlcykpCiAgICAgICAgcHJpbnQoLCBzdHIoc2VsZi5wcmVlbXB0cykpCg==</text>
+        <text encoding="base64">ICAgICMgVE9ETyByZWZhY3RvciB0byBiZSBzaW5nbGV0b24K</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search />
