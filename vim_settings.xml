@@ -3,24 +3,35 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/project1.py" timestamp="1553523788945">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="45" column="21" />
-        <mark key="." line="45" column="21" />
-        <mark key="^" line="45" column="21" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/project1.py" timestamp="1553527684449">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/process.py" timestamp="1553523822192">
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="5" column="22" />
-        <mark key="^" line="5" column="22" />
-        <mark key="." line="5" column="22" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/queue.py" timestamp="1553527599884">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="5" />
+        <mark key="." line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/queue.py" timestamp="1553524062578">
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/process.py" timestamp="1553526755572">
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="24" column="3" />
+        <mark key="^" line="24" column="3" />
+        <mark key="." line="24" column="3" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/queue.py" timestamp="1553527173570">
         <mark key="'" line="142" column="27" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="162" column="55" />
+        <mark key="[" line="27" column="42" />
+        <mark key="]" line="27" column="30" />
+        <mark key="." line="27" column="30" />
+        <mark key="^" line="27" column="30" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator.py" timestamp="1553527924077">
+        <mark key="[" line="63" column="73" />
+        <mark key="]" line="63" column="9" />
+        <mark key="." line="63" column="9" />
+        <mark key="^" line="63" column="9" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/cpu_simulator.py" timestamp="1553523803602">
         <mark key="[" line="19" column="12" />
@@ -28,11 +39,27 @@
         <mark key="^" line="19" column="49" />
         <mark key="." line="19" column="49" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/stat_logger.py" timestamp="1553524113945">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="30" column="35" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_queue.py" timestamp="1553529372792">
+        <mark key="[" line="216" column="23" />
+        <mark key="]" line="217" column="18" />
+        <mark key="^" line="217" column="18" />
+        <mark key="." line="217" column="18" />
+      </file>
+      <file name="/a.dummy" timestamp="1553527644856">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/process.py" timestamp="1553529218768">
+        <mark key="'" line="63" column="18" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="63" column="15" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/stat_logger.py" timestamp="1553525583405">
+        <mark key="[" line="56" column="64" />
+        <mark key="]" line="56" column="64" />
+        <mark key="^" line="56" column="64" />
+        <mark key="." line="56" column="64" />
       </file>
       <file name="/" timestamp="1552932411040">
         <mark key="[" line="0" column="0" />
@@ -41,52 +68,63 @@
     <jumps>
       <jump line="139" column="27" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/queue.py" />
       <jump line="2" column="24" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/queue.py" />
+      <jump line="63" column="18" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/process.py" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJ1cnN0c1thbGdvXSA9IDAK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJ1cnN0c1thbGdvXSA9IDAK</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJ1cnN0c1thbGdvXSA9IDAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndhaXRzW2FsZ29dID0gMAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICBkZWYgdHVybmFyb3VuZChzZWxmLCB0aW1lKToKICAgICAgICBzZWxmLnR1cm5hcm91bmRzW3NlbGYuYWxnb10gPSB0aW1lCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICMgY2F1c2VzIGEgYnVnIGluIHN0YXRsb2dnZXI/Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlciA9IGxvZ2dlcgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlciA9IGxvZ2dlcgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlciA9IGdldF9sb2dnZXIoKQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBjcHVfc2ltdWxhdG9yLnF1ZXVlIGltcG9ydCBnZXRfcXVldWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETyB0aW1lIDMwOW1zOiBQcm9jZXNzIEEgKHRhdSA2OW1zKSBjb21wbGV0ZWQgSS9POyBhZGRlZAogICAgICAgICAgICAgICAgIyAgdG8gcmVhZHkgcXVldWUgW1EgQV0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxUT0RPXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIltRICIgKyArICJdIgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETyB0aW1lIDMwOW1zOiBQcm9jZXNzIEEgKHRhdSA2OW1zKSBjb21wbGV0ZWQgSS9POyBhZGRlZAogICAgICAgICAgICAgICAgIyAgdG8gcmVhZHkgcXVldWUgW1EgQV0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETyB0aW1lIDMwOW1zOiBQcm9jZXNzIEEgKHRhdSA2OW1zKSBjb21wbGV0ZWQgSS9POyBhZGRlZAogICAgICAgICAgICAgICAgIyAgdG8gcmVhZHkgcXVldWUgW1EgQV0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETyB0aW1lIDIxOTltczogUHJvY2VzcyBBIHRlcm1pbmF0ZWQgW1EgPGVtcHR5Pl0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETyB0aW1lIDIxOTltczogUHJvY2VzcyBBIHRlcm1pbmF0ZWQgW1EgPGVtcHR5Pl0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE8gdGltZSA2N21zOiBSZWNhbGN1bGF0ZWQgdGF1ID0gNzhtcyBmb3IgcHJvY2VzcyBBIFtRIDxlbXB0eT5dCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETyB0aW1lIDY3bXM6IFByb2Nlc3MgQSBjb21wbGV0ZWQgYSBDUFUgYnVyc3Q7IDE1IGJ1cnN0cyB0bwogICAgICAgICAgICAgICAgIyAgZ28gW1EgPGVtcHR5Pl0K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETyB0aW1lIDY3bXM6IFByb2Nlc3MgQSBzd2l0Y2hpbmcgb3V0IG9mIENQVTsgd2lsbCBibG9jawogICAgICAgICAgICAgICAgIyAgb24gSS9PIHVudGlsIHRpbWUgOTJtcyBbUSA8ZW1wdHk+XQo=</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxUT0RPXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxUT0RPXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry encoding="base64">XDxUT0RPXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>CtrlPBuffer</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -102,6 +140,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
