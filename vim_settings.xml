@@ -40,12 +40,12 @@
         <mark key="^" line="19" column="49" />
         <mark key="." line="19" column="49" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_queue.py" timestamp="1553550821381">
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_queue.py" timestamp="1553557209241">
         <mark key="'" line="59" column="38" />
-        <mark key="[" line="188" column="37" />
-        <mark key="]" line="189" column="39" />
-        <mark key="^" line="189" column="39" />
-        <mark key="." line="189" column="39" />
+        <mark key="[" line="95" column="40" />
+        <mark key="]" line="95" column="41" />
+        <mark key="^" line="108" column="52" />
+        <mark key="." line="95" column="41" />
       </file>
       <file name="/a.dummy" timestamp="1553527644856">
         <mark key="[" line="0" column="0" />
@@ -56,12 +56,12 @@
         <mark key="." line="64" column="31" />
         <mark key="^" line="64" column="31" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/process.py" timestamp="1553549882512">
-        <mark key="'" line="40" column="27" />
-        <mark key="[" line="44" column="36" />
-        <mark key="]" line="44" column="21" />
-        <mark key="." line="44" column="21" />
-        <mark key="^" line="44" column="21" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/process.py" timestamp="1553557082958">
+        <mark key="'" line="44" column="27" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="106" column="29" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/stat_logger.py" timestamp="1553525583405">
         <mark key="[" line="56" column="64" />
@@ -83,7 +83,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJ1bm5pbmcuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -95,31 +95,31 @@
         <text encoding="base64">ICAgIGRlZiBfX2hhc2hfXyhzZWxmKToKICAgICAgICByZXR1cm4gaGFzaChzZWxmLmxhYmVsKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJ1bm5pbmcuCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IEZpeCB3YWl0IGJ1Zwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRzbGljZV9yZW1haW5pbmcgPSBzZWxmLnRzbGljZQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAogICAgZGVmIF9fdXV1dQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5ydW5uaW5nIGFuZCBub3Qgc2VsZi5yZWFkeV9xdWV1ZS5lbXB0eSgpOgogICAgICAgICAgICBzZWxmLnN3aXRjaF9jb250ZXh0X2luKHNlbGYucmVhZHlfcXVldWUuZ2V0KCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRfbG9nZ2VyLnR1cm5hcm91bmQoY3VycmVudF90aW1lICsgc2VsZi50Y3MgLQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLmFycml2YWxfdGltZSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnJ1bm5pbmcuY29tcGxldGVkOgogICAgICAgICAgICBzdGF0X2xvZ2dlci50dXJuYXJvdW5kKCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi50YXUgLSBzZWxmLmJ1cnN0X2VsYXBzZWQgPCBvdGhlci50YXUgLSBvdGhlci5idXJzdF9lbGFwc2VkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETyBmaXggdHVybmFyb3VuZCB0aW1lCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi50YXUgLSBzZWxmLmJ1cnN0X2VsYXBzZWQgPT0gb3RoZXIudGF1IC0gb3RoZXIuYnVyc3RfZWxhcHNlZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoc2VsZi5hbHBoYSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name=":" type="4">
         <text>92</text>
