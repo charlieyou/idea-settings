@@ -29,9 +29,9 @@
         <mark key="^" line="27" column="30" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator.py" timestamp="1553615754286">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/cpu_simulator.py" timestamp="1553523803602">
         <mark key="[" line="19" column="12" />
@@ -39,11 +39,11 @@
         <mark key="^" line="19" column="49" />
         <mark key="." line="19" column="49" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_queue.py" timestamp="1553612932518">
-        <mark key="[" line="284" column="44" />
-        <mark key="]" line="284" column="43" />
-        <mark key="." line="284" column="43" />
-        <mark key="^" line="284" column="43" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_queue.py" timestamp="1553623126341">
+        <mark key="[" line="78" column="29" />
+        <mark key="]" line="79" column="19" />
+        <mark key="." line="79" column="19" />
+        <mark key="^" line="79" column="19" />
       </file>
       <file name="/a.dummy" timestamp="1553527644856">
         <mark key="[" line="0" column="0" />
@@ -54,9 +54,11 @@
         <mark key="." line="54" column="28" />
         <mark key="^" line="54" column="28" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/process.py" timestamp="1553620339932">
-        <mark key="'" line="44" column="27" />
-        <mark key="[" line="27" column="30" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/process.py" timestamp="1553623347245">
+        <mark key="[" line="125" column="62" />
+        <mark key="]" line="125" column="60" />
+        <mark key="^" line="125" column="60" />
+        <mark key="." line="125" column="60" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/stat_logger.py" timestamp="1553525583405">
         <mark key="[" line="56" column="64" />
@@ -76,46 +78,47 @@
       <jump line="40" column="27" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/process.py" />
       <jump line="59" column="38" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_queue.py" />
       <jump line="168" column="0" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_queue.py" />
+      <jump line="134" column="44" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/process.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIFRPRE8gY2VpbCBhZnRlciB1cHBlciBib3VuZCBjaGVjaz8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG90aGVyLmVzdGltYXRlZF9idXJzdF9yZW1haW5pbmcoKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>check_context</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jb250ZXh0X3N3aXRjaF9vdXQgLT0gMQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKHNlbGYuY3VycmVudF9idXJzdF9yZW1haW5pbmcoKSwgc2VsZi5sYWJlbCkgPT0gXAogICAgICAgICAgICAgICAob3RoZXIuY3VycmVudF9idXJzdF9yZW1haW5pbmcoKSwgb3RoZXIubGFiZWwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIFRPRE8gY2VpbCBhZnRlciB1cHBlciBib3VuZCBjaGVjaz8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG90aGVyLmVzdGltYXRlZF9idXJzdF9yZW1haW5pbmcoKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2VsZi5lc3RpbWF0ZWRfYnVyc3RfcmVtYWluaW5nKCkgPT0KICAgICAgICAgICAgICAgIG90aGVyLmVzdGltYXRlZF9idXJzdF9yZW1haW5pbmcoKSk6CiAgICAgICAgICAgIHJldHVybiBzdXBlcigpLl9fbHRfXyhvdGhlcikKICAgICAgICByZXR1cm4gKHNlbGYuZXN0aW1hdGVkX2J1cnN0X3JlbWFpbmluZygpIDwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKHNlbGYuZXN0aW1hdGVkX2J1cnN0X3JlbWFpbmluZygpID09CiAgICAgICAgICAgICAgICBvdGhlci5lc3RpbWF0ZWRfYnVyc3RfcmVtYWluaW5nKCkgYW5kIHN1cGVyKCkuX19lcV9fKG90aGVyKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmFycml2YWxfdGltZSA9PSBvdGhlci5hcnJpdmFsX3RpbWU6CiAgICAgICAgICAgIHJldHVybiBzdXBlcigpLl9fbHRfXyhvdGhlcikKICAgICAgICByZXR1cm4gc2VsZi5hcnJpdmFsX3RpbWUgPCBvdGhlci5hcnJpdmFsX3RpbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnJ1bm5pbmcucHJlZW1wdGVkID0gVHJ1ZQogICAgICAgICAgICAgICAgICAgIHNlbGYucmVhZHlfcXVldWUucHV0KHNlbGYucnVubmluZykKICAgICAgICAgICAgICAgICAgICBwcm9jZXNzZXMucmVtb3ZlKHNob3J0ZXN0X3Byb2Nlc3MpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKHNlbGYuYXJyaXZhbF90aW1lID09IG90aGVyLmFycml2YWxfdGltZSBhbmQKICAgICAgICAgICAgICAgIHN1cGVyKCkuX19lcV9fKG90aGVyKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmNvbnRleHRfc3dpdGNoX291dCAtPSAxCg==</text>
+        <text encoding="base64">CiAgICBkZWYgX19sdF9fKHNlbGYsIG90aGVyKToKICAgICAgICByZXR1cm4gc2VsZi5sYWJlbCA8IG90aGVyLmxhYmVsCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QHRvdGFsX29yZGVyaW5nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICBkZWYgX19oYXNoX18oc2VsZik6CiAgICAgICAgcmV0dXJuIGhhc2goc2VsZi5sYWJlbCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBkZWYgX19oYXNoX18oc2VsZik6CiAgICAgICAgcmV0dXJuIGhhc2goc2VsZi5sYWJlbCkK</text>
       </register>
       <register name=":" type="4">
         <text>92</text>
