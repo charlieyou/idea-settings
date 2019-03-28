@@ -40,12 +40,12 @@
         <mark key="^" line="19" column="49" />
         <mark key="." line="19" column="49" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_queue.py" timestamp="1553712599634">
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_queue.py" timestamp="1553732083093">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="16" />
-        <mark key="." line="112" column="16" />
-        <mark key="^" line="101" column="39" />
+        <mark key="[" line="308" column="0" />
+        <mark key="]" line="308" column="0" />
+        <mark key="^" line="308" column="15" />
+        <mark key="." line="308" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1553527644856">
         <mark key="[" line="0" column="0" />
@@ -86,10 +86,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNlbGYucnVubmluZzoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRfbG9nZ2VyLmNwdV9idXJzdCgtMSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2hvcnRlc3RfcHJvY2VzcyA=</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>burst_e</text>
@@ -98,31 +98,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBzZWxmLnJ1bm5pbmcgYW5kIHNob3J0ZXN0X3Byb2Nlc3MgPCBzZWxmLnJ1bm5pbmc6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNlbGYucnVubmluZzoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRfbG9nZ2VyLmNwdV9idXJzdCgtMSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNlbGYucnVubmluZzoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmV4ZWN1dGVfYnVyc3QodGltZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBzZWxmLnJ1bm5pbmcgYW5kIHNob3J0ZXN0X3Byb2Nlc3MgPCBzZWxmLnJ1bm5pbmc6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNlbGYucnVubmluZzoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5idXJzdF9zdGFydGVkID0gRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNlbGYucnVubmluZzoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYucnVubmluZy5wcmVlbXB0ZWQgPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBzZWxmLnJ1bm5pbmcgYW5kIHNob3J0ZXN0X3Byb2Nlc3MgPCBzZWxmLnJ1bm5pbmc6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5yZWFkeV9xdWV1ZS5nZXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5idXJzdF9zdGFydGVkID0gRmFsc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYucnVubmluZy5wcmVlbXB0ZWQgPSBUcnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>107</text>
