@@ -130,18 +130,18 @@
         <mark key="^" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw5/MarvelPaths.java" timestamp="1553873381814">
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw5/MarvelPaths.java" timestamp="1553883126367">
         <mark key="'" line="66" column="24" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="94" column="26" />
-        <mark key="." line="77" column="0" />
+        <mark key="[" line="56" column="12" />
+        <mark key="]" line="56" column="12" />
+        <mark key="^" line="56" column="12" />
+        <mark key="." line="56" column="12" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/test/java/hw5/MarvelPathsTest.java" timestamp="1553874256786">
-        <mark key="[" line="42" column="97" />
-        <mark key="]" line="42" column="45" />
-        <mark key="^" line="42" column="45" />
-        <mark key="." line="42" column="45" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/test/java/hw5/MarvelPathsTest.java" timestamp="1553882940590">
+        <mark key="[" line="53" column="25" />
+        <mark key="]" line="53" column="73" />
+        <mark key="." line="53" column="73" />
+        <mark key="^" line="53" column="73" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw5/MarvelParser.java" timestamp="1553872736791">
         <mark key="[" line="58" column="5" />
@@ -161,12 +161,12 @@
         <mark key="." line="670" column="1" />
         <mark key="^" line="670" column="1" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw4/Graph.java" timestamp="1553873251639">
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw4/Graph.java" timestamp="1553881425411">
         <mark key="'" line="56" column="68" />
-        <mark key="[" line="104" column="27" />
-        <mark key="]" line="104" column="27" />
-        <mark key="." line="104" column="27" />
-        <mark key="^" line="104" column="26" />
+        <mark key="[" line="78" column="8" />
+        <mark key="]" line="78" column="8" />
+        <mark key="." line="78" column="8" />
+        <mark key="^" line="76" column="68" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/answers/hw5_reflection.txt" timestamp="1553870678829">
         <mark key="[" line="0" column="0" />
@@ -260,10 +260,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG4uZ2V0RGF0YSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
@@ -272,31 +272,31 @@
         <text encoding="base64">CQkJCSJwYXRoIGZyb20gRlJPU1QsIENBUk1JTExBIHRvIEcnUkFUSDpcbkZST1NULCBDQVJNSUxMQSB0byBHJ1JBVEggdmlhIEFBMiAzNVxuIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG4uZ2V0RGF0YSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGVyciA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJwYXRoIGZyb20gRlJPU1QsIENBUk1JTExBIHRvIEhVTUFOIFJPQk9UOlxubm8gcGF0aCBmb3VuZFxuIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGZpeCByZXR1cm4gc3RyaW5ncwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJwYXRoIGZyb20gRlJPU1QsIENBUk1JTExBIHRvIE9MRCBTS1VMTDpcbiIgKwogICAgICAgICAgICAgICAgICAgICAgICAiRlJPU1QsIENBUk1JTExBIHRvIE9MRCBTS1VMTCB2aWEgQUEyIDM1XG4iKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCSJubyBwYXRoIGZvdW5kIGZyb20gRlJPU1QsIENBUk1JTExBIHRvIEhVTUFOIFJPQk9ULlxuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJwYXRoIGZyb20gRlJPU1QsIENBUk1JTExBIHRvIEZST1NULCBDQVJNSUxMQTpcbiIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CglAVGVzdAoJcHVibGljIHZvaWQgdGVzdEN1c3RvbUZpbGUoKSB0aHJvd3MgSU9FeGNlcHRpb24gewoJCU1hcnZlbFBhdGhzIHBhdGhGaW5kZXIgPSBuZXcgTWFydmVsUGF0aHMoKTsKCQlwYXRoRmluZGVyLmNyZWF0ZU5ld0dyYXBoKCJkYXRhL2N1c3RvbVRlc3QyLmNzdiIpOwoKCQlhc3NlcnRFcXVhbHMocGF0aEZpbmRlci5maW5kUGF0aCgiQSIsICJCIiksICJQYXRoIGZyb20gQSB0byBCOlxuQSB0byBCIHZpYSAxXG4iKTsKCQlhc3NlcnRFcXVhbHMocGF0aEZpbmRlci5maW5kUGF0aCgiQSIsICJEIiksICJQYXRoIGZyb20gQSB0byBEOlxuQSB0byBDIHZpYSAxXG5DIHRvIEQgdmlhIDJcbiIpOwoJCWFzc2VydEVxdWFscyhwYXRoRmluZGVyLmZpbmRQYXRoKCJBIiwgIkUiKSwgIlBhdGggZnJvbSBBIHRvIEU6XG5BIHRvIEIgdmlhIDFcbkIgdG8gRSB2aWEgM1xuIik7Cgl9Cgo=</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24gICAgICBpZiBmaWxlIHdpdGggbmFtZSBmaWxlbmFtZSBpcyBub3QgYSBjc3YgZmlsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CglAVGVzdAoJcHVibGljIHZvaWQgdGVzdEJhZENTVjIoKSB0aHJvd3MgSU9FeGNlcHRpb24gewoJCU1hcnZlbFBhdGhzIHBhdGhGaW5kZXIgPSBuZXcgTWFydmVsUGF0aHMoKTsKCQlwYXRoRmluZGVyLmNyZWF0ZU5ld0dyYXBoKCJkYXRhL2JhZENTVjIuY3N2Iik7Cgl9Cgo=</text>
+        <text encoding="base64">CgkJYXNzZXJ0RXF1YWxzKHBhdGhGaW5kZXIuZmluZFBhdGgoIkZST1NULCBDQVJNSUxMQSIsICJHJ1JBVEgiKSwKCQkJCSJwYXRoIGZyb20gRlJPU1QsIENBUk1JTExBIHRvIEcnUkFUSDpcbkZST1NULCBDQVJNSUxMQSB0byBHJ1JBVEggdmlhIEFBMiAzNVxuIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXRoaXMuZ2V0U291cmNlKCkuZXF1YWxzKGUuZ2V0U291cmNlKCkpKSB7CiAgICAgICAgICAgIHJldHVybgogICAgICAgIH0K</text>
+        <text encoding="base64">CQoJQFRlc3QgcHVibGljIHZvaWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
