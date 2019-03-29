@@ -16,11 +16,6 @@
         <mark key="^" line="25" column="27" />
         <mark key="." line="25" column="27" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/school_rcos/bitmex-bot/settings.py" timestamp="1544728012594">
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="6" />
-        <mark key="." line="2" column="6" />
-      </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/test/java/hw4/GraphWrapperTest.java" timestamp="1552521895961">
         <mark key="'" line="2" column="18" />
         <mark key="[" line="23" column="32" />
@@ -53,11 +48,6 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/school_comporg/project/pipeline_stage.py" timestamp="1544839114207">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/school_rcos/bitmex-bot/bitmex_bot/data_manager/__init__.py" timestamp="1544729090068">
         <mark key="[" line="0" column="37" />
         <mark key="]" line="0" column="37" />
@@ -83,11 +73,6 @@
         <mark key="." line="61" column="41" />
         <mark key="^" line="61" column="41" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/school_rcos/bitmex-bot/bitmex_bot/connectors/connector.py" timestamp="1545079921400">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/test/java/hw4/EdgeTest.java" timestamp="1552521551732">
         <mark key="[" line="43" column="31" />
         <mark key="]" line="44" column="30" />
@@ -100,11 +85,11 @@
         <mark key="^" line="19" column="53" />
         <mark key="." line="19" column="53" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/answers/hw5_problem1.txt" timestamp="1553816660039">
-        <mark key="[" line="3" column="29" />
-        <mark key="]" line="3" column="27" />
-        <mark key="^" line="3" column="27" />
-        <mark key="." line="3" column="27" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/answers/hw5_problem1.txt" timestamp="1553865729272">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="8" column="43" />
+        <mark key="^" line="8" column="43" />
+        <mark key="." line="8" column="43" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/school_rcos/bitmex-bot/bitmex_bot/settings.py" timestamp="1544727993112">
         <mark key="[" line="24" column="36" />
@@ -118,7 +103,7 @@
         <mark key="^" line="26" column="40" />
         <mark key="." line="26" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552521698785">
+      <file name="/Dummy.txt" timestamp="1553866125381">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw4/GraphWrapper.java" timestamp="1552512339010">
@@ -132,6 +117,18 @@
         <mark key="]" line="8" column="12" />
         <mark key="^" line="8" column="12" />
         <mark key="." line="8" column="12" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/answers/hw5_changes.txt" timestamp="1553865862310">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="40" />
+        <mark key="^" line="0" column="40" />
+        <mark key="." line="0" column="40" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw5/MarvelPaths.java" timestamp="1553867187514">
+        <mark key="[" line="46" column="29" />
+        <mark key="]" line="46" column="23" />
+        <mark key="." line="46" column="23" />
+        <mark key="^" line="46" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/1/src/main/java/hw0/Ball.java" timestamp="1548875053159">
         <mark key="[" line="32" column="0" />
@@ -165,11 +162,6 @@
         <mark key="." line="74" column="11" />
         <mark key="^" line="74" column="11" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/1/src/main/java/hw0/BallContainer.java" timestamp="1547514316846">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/school_rcos/bitmex-bot/bitmex_bot/data_manager/bitmex_data_manager.py" timestamp="1544729445047">
         <mark key="[" line="8" column="12" />
         <mark key="]" line="8" column="12" />
@@ -189,7 +181,7 @@
         <mark key="." line="26" column="26" />
         <mark key="^" line="26" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1552521698794">
+      <file name="/fragment.java" timestamp="1553866158039">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw4/Edge.java" timestamp="1552520969135">
@@ -198,6 +190,9 @@
         <mark key="]" line="56" column="9" />
         <mark key="." line="56" column="9" />
         <mark key="^" line="56" column="9" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/4 Archive/1 Projects/rpi_f18/school_psoft/hw4/src/main/java/hw5/MarvelPaths.java" timestamp="1553866557627">
+        <mark key="[" line="25" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -235,46 +230,47 @@
       <jump line="42" column="0" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/test/java/hw4/GraphTest.java" />
       <jump line="56" column="68" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw4/Graph.java" />
       <jump line="33" column="12" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw4/Graph.java" />
+      <jump line="35" column="80" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw5/MarvelPaths.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ZnJvbSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGFja2FnZSBodzQ7CgppbXBvcnQgb3JnLmp1bml0LkJlZm9yZTsKaW1wb3J0IG9yZy5qdW5pdC5UZXN0OwoKaW1wb3J0IGphdmEudXRpbC5JdGVyYXRvcjsKCmltcG9ydCBzdGF0aWMganVuaXQuZnJhbWV3b3JrLlRlc3RDYXNlLmFzc2VydEVxdWFsczsKCnB1YmxpYyBjbGFzcyBHcmFwaFdyYXBwZXJUZXN0IHsKICAgIHByaXZhdGUgR3JhcGhXcmFwcGVyIGd3OwoKICAgIEBCZWZvcmUKICAgIHB1YmxpYyB2b2lkIHNldFVwKCkgewogICAgICAgIGd3ID0gbmV3IEdyYXBoV3JhcHBlcigpOwoKICAgICAgICBndy5hZGROb2RlKCJhIik7CiAgICAgICAgZ3cuYWRkTm9kZSgiYyIpOwogICAgICAgIGd3LmFkZE5vZGUoImQiKTsKICAgICAgICBndy5hZGROb2RlKCJiIik7CgogICAgICAgIGd3LmFkZEVkZ2UoImEiLCAiYiIsICJhYiIpOwogICAgICAgIGd3LmFkZEVkZ2UoImEiLCAiYyIsICJhYyIpOwogICAgICAgIGd3LmFkZEVkZ2UoImQiLCAiYiIsICJkYiIpOwogICAgfQoKICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBsaXN0Tm9kZXMoKSB7CiAgICAgICAgSXRlcmF0b3I8U3RyaW5nPiBub2RlcyA9IGd3Lmxpc3ROb2RlcygpOwogICAgICAgIGFzc2VydEVxdWFscygiYSIsIG5vZGVzLm5leHQoKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKCJiIiwgbm9kZXMubmV4dCgpKTsKICAgICAgICBhc3NlcnRFcXVhbHMoImMiLCBub2Rlcy5uZXh0KCkpOwogICAgICAgIGFzc2VydEVxdWFscygiZCIsIG5vZGVzLm5leHQoKSk7CiAgICB9CgogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIGxpc3RDaGlsZHJlbigpIHsKICAgICAgICBJdGVyYXRvcjxTdHJpbmc+IGNoaWxkcmVuID0gZ3cubGlzdENoaWxkcmVuKCJhIik7CiAgICAgICAgYXNzZXJ0RXF1YWxzKCJhYiIsIGNoaWxkcmVuLm5leHQoKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKCJhYyIsIGNoaWxkcmVuLm5leHQoKSk7CiAgICB9Cn0K</text>
+        <text encoding="base64">CQkJCXJldHVybjsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAqICAgICAgICAgICAgICAgICB1c2VkIHRvIGNyZWF0ZSBhIGdyYXBoIHdoZXJlIGNoYXJhY3RlcnMgaGF2ZSBhbiBlZGdlIHRvCgkgKiAgICAgICAgICAgICAgICAgY2hhcmFjdGVycyBpZiB0aGV5IGFwcGVhciBpbiB0aGUgc2FtZSBib29rCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CSAqIAoJICogSW5pdGlhbGl6ZXMgZ3JhcGggaW5zdGFuY2UgdmFyaWFibGUgdG8gYSBuZXcgZW1wdHkgZ3JhcGgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCBoYXNoQ29kZSgpIHsKICAgICAgICByZXR1cm4gdGhpcy5zb3VyY2UuaGFzaENvZGUoKSBeIHRoaXMuZGVzdGluYXRpb24uaGFzaENvZGUoKTsKICAgIH0KCg==</text>
+        <text encoding="base64">CS8vIGdyYXBoIGluc3RhbmNlIHZhcmlhYmxlIHRoYXQgd2lsbCBiZSBwb3B1bGF0ZWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">eWVzLCB0aGUgc3BlY3MgYXJlIHRoZSBzYW1lIGFuZCBJc29zY2VsZXNUcmlhbmdsZSBjYW4gYmUgc3Vic3RpdHV0ZWQgZm9yIFRyaWFuZ2xlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoRWRnZSBlOiBlZGdlcykgewogICAgICAgICAgICBpZighbm9kZXMuY29udGFpbnNlLmdldERlc3RpbmF0aW9uKCkpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5vbWcuU2VuZGluZ0NvbnRleHQuUnVuVGltZTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCBoYXNoQ29kZSgpIHsKICAgICAgICByZXR1cm4gdGhpcy5zb3VyY2UuaGFzaENvZGUoKSBeIHRoaXMuZGVzdGluYXRpb24uaGFzaENvZGUoKTsKICAgIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
