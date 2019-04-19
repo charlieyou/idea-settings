@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1555632399602">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/test/java/hw4/NodeTest.java" timestamp="1554756821369">
         <mark key="[" line="24" column="12" />
         <mark key="]" line="24" column="18" />
@@ -15,6 +18,12 @@
         <mark key="." line="36" column="24" />
         <mark key="^" line="36" column="24" />
       </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw4/GraphWrapper.java" timestamp="1554756789176">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="26" />
+        <mark key="^" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+      </file>
       <file name="$USER_HOME$/Dropbox/4 Archive/1 Projects/rpi_f18/school_psoft/hw4/src/main/java/hw7/CampusPathsGraphModel.java" timestamp="1555645730049">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="41" />
@@ -25,11 +34,28 @@
         <mark key="^" line="10" column="31" />
         <mark key="." line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/test/java/hw7/CampusPathsTest.java" timestamp="1555634181652">
-        <mark key="[" line="32" column="24" />
-        <mark key="]" line="32" column="67" />
-        <mark key="." line="32" column="67" />
-        <mark key="^" line="32" column="67" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw5/MarvelPaths.java" timestamp="1554762420423">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="81" column="51" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/test/java/hw6/MarvelPaths2Test.java" timestamp="1554765058126">
+        <mark key="'" line="13" column="2" />
+        <mark key="[" line="34" column="17" />
+        <mark key="]" line="34" column="17" />
+        <mark key="." line="34" column="17" />
+        <mark key="^" line="25" column="38" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/test/java/hw7/CampusPathsTest.java" timestamp="1555690432466">
+        <mark key="[" line="32" column="79" />
+        <mark key="]" line="32" column="73" />
+        <mark key="." line="32" column="73" />
+        <mark key="^" line="32" column="73" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/test/java/hw5/MarvelPathsTest.java" timestamp="1554759549596">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/4 Archive/1 Projects/rpi_f18/school_psoft/backwork/homework/hw4/presik/src/test/java/hw6/MarvelPaths2Test.java" timestamp="1554764897719">
         <mark key="[" line="86" column="0" />
@@ -41,13 +67,31 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw7/Path.java" timestamp="1555632296281">
-        <mark key="[" line="45" column="15" />
-        <mark key="]" line="45" column="16" />
-        <mark key="^" line="45" column="22" />
-        <mark key="." line="45" column="16" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw6/MarvelPaths2.java" timestamp="1554764759162">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
+        <mark key="^" line="110" column="44" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw7/CampusPathsTextController.java" timestamp="1555627674351">
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw7/CampusPathsGraphModel.java" timestamp="1555691089903">
+        <mark key="[" line="112" column="15" />
+        <mark key="]" line="112" column="36" />
+        <mark key="^" line="112" column="36" />
+        <mark key="." line="112" column="36" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw4/Graph.java" timestamp="1554759407720">
+        <mark key="[" line="65" column="34" />
+        <mark key="]" line="65" column="34" />
+        <mark key="^" line="121" column="53" />
+        <mark key="." line="65" column="34" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw7/Path.java" timestamp="1555690290637">
+        <mark key="[" line="76" column="44" />
+        <mark key="]" line="76" column="45" />
+        <mark key="." line="76" column="45" />
+        <mark key="^" line="76" column="45" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw7/CampusPathsTextController.java" timestamp="1555690173642">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -63,50 +107,6 @@
         <mark key="]" line="16" column="22" />
         <mark key="^" line="16" column="22" />
         <mark key="." line="42" column="27" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1555632399602">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw4/GraphWrapper.java" timestamp="1554756789176">
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="8" column="26" />
-        <mark key="^" line="8" column="26" />
-        <mark key="." line="8" column="26" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw5/MarvelPaths.java" timestamp="1554762420423">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="81" column="51" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/test/java/hw6/MarvelPaths2Test.java" timestamp="1554765058126">
-        <mark key="'" line="13" column="2" />
-        <mark key="[" line="34" column="17" />
-        <mark key="]" line="34" column="17" />
-        <mark key="." line="34" column="17" />
-        <mark key="^" line="25" column="38" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/test/java/hw5/MarvelPathsTest.java" timestamp="1554759549596">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw6/MarvelPaths2.java" timestamp="1554764759162">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
-        <mark key="^" line="110" column="44" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw7/CampusPathsGraphModel.java" timestamp="1555645878613">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="27" column="18" />
-        <mark key="." line="74" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw4/Graph.java" timestamp="1554759407720">
-        <mark key="[" line="65" column="34" />
-        <mark key="]" line="65" column="34" />
-        <mark key="^" line="121" column="53" />
-        <mark key="." line="65" column="34" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw7/CampusPathsView.java" timestamp="1555627683042">
         <mark key="[" line="1" column="0" />
@@ -126,7 +126,7 @@
         <mark key="." line="62" column="59" />
         <mark key="^" line="62" column="60" />
       </file>
-      <file name="/fragment.java" timestamp="1555632399628">
+      <file name="/fragment.java" timestamp="1555690199245">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw6/Path.java" timestamp="1555629230460">
@@ -142,40 +142,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlhc3NlcnQoYnVpbGRpbmdfaWRzLmxlbmd0aCA9PSAyKTsK</text>
+        <text encoding="base64">CQlhY3RpdmUuYWRkKGluaXRpYWwpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlhc3NlcnQoYnVpbGRpbmdfaWRzLmxlbmd0aCA9PSAyKTsK</text>
+        <text encoding="base64">CQkJYXNzZXJ0KG5vZGUubGVuZ3RoID09IDQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlhc3NlcnQoYnVpbGRpbmdfaWRzLmxlbmd0aCA9PSAyKTsK</text>
+        <text encoding="base64">CQlhY3RpdmUuYWRkKGluaXRpYWwpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQoJLyoqCgkgKiBDb3B5IGNvbnN0cnVjdG9yCgkgKiAKCSAqIEBwYXJhbSBwYXRoIFBhdGggdG8gYmUgY29waWVkCgkgKi8KCXB1YmxpYyBQYXRoKFBhdGggcGF0aCkgewoJCXRoaXMuZWRnZXMgPSBuZXcgTGlua2VkTGlzdDw+KHBhdGguZ2V0RSk7CgkJdGhpcy5jb3N0ID0gcGF0aC5nZXRDb3N0KCk7Cgl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWlkQnVpbGRpbmdNYXAucHV0KEludGVnZXIucGFyc2VJbnQobm9kZVsxXSksIGJ1aWxkaW5nKTsK</text>
+        <text encoding="base64">CQlhc3NlcnQoYnVpbGRpbmdfaWRzLmxlbmd0aCA9PSAyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQluZXdQYXRoLmFkZChlKTsKCQkJCQlhY3RpdmUuYWRkKG5ld1BhdGgpOwo=</text>
+        <text encoding="base64">CQkJCWlkQnVpbGRpbmdNYXAucHV0KEludGVnZXIucGFyc2VJbnQobm9kZVsxXSksIGJ1aWxkaW5nKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQljb3N0ICs9IGVkZ2UuZ2V0RGVzdGluYXRpb24oKS5nZXREYXRhKCkuZGlzdGFuY2VUbygKCQkJCWVkZ2UuZ2V0U291cmNlKCkuZ2V0RGF0YSgpKTsK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQllZGdlcy5hZGQoZWRnZSk7Cg==</text>
+        <text encoding="base64">CQkJCQluZXdQYXRoLmFkZChlKTsKCQkJCQlhY3RpdmUuYWRkKG5ld1BhdGgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQlQYXRoIG5ld1BhdGggPSBuZXcgUGF0aChtaW5QYXRoKTsK</text>
+        <text encoding="base64">CQljb3N0ICs9IGVkZ2UuZ2V0RGVzdGluYXRpb24oKS5nZXREYXRhKCkuZGlzdGFuY2VUbygKCQkJCWVkZ2UuZ2V0U291cmNlKCkuZ2V0RGF0YSgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQlQYXRoIG5ld1BhdGggPSBuZXcgUGF0aChtaW5QYXRoKTsK</text>
+        <text encoding="base64">CQllZGdlcy5hZGQoZWRnZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -183,7 +183,7 @@
     </registers>
     <search>
       <last-dir>0</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search />
