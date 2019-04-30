@@ -31,7 +31,7 @@
         <mark key="^" line="93" column="73" />
         <mark key="." line="93" column="73" />
       </file>
-      <file name="/a.dummy" timestamp="1556636177710">
+      <file name="/a.dummy" timestamp="1556638159758">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/test/java/hw4/GraphTest.java" timestamp="1554756838090">
@@ -54,6 +54,13 @@
       <file name="$USER_HOME$/Dropbox/4 Archive/1 Projects/rpi_f18/school_psoft/backwork/homework/hw4/presik/src/test/java/hw6/MarvelPaths2Test.java" timestamp="1554764897719">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="88" column="89" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/simulator.py" timestamp="1556639450019">
+        <mark key="'" line="0" column="28" />
+        <mark key="[" line="26" column="16" />
+        <mark key="]" line="26" column="22" />
+        <mark key="." line="26" column="22" />
+        <mark key="^" line="26" column="22" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw7/CampusPathsModel.java" timestamp="1555627669387">
         <mark key="[" line="1" column="0" />
@@ -112,9 +119,9 @@
         <mark key="." line="27" column="30" />
         <mark key="^" line="27" column="30" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator.py" timestamp="1556635219331">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="68" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator.py" timestamp="1556638717267">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="58" column="31" />
         <mark key="^" line="83" column="24" />
         <mark key="." line="80" column="0" />
       </file>
@@ -148,11 +155,11 @@
         <mark key="." line="34" column="17" />
         <mark key="^" line="25" column="38" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/memory.py" timestamp="1556636572324">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="12" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/memory.py" timestamp="1556639869811">
+        <mark key="[" line="30" column="21" />
+        <mark key="]" line="32" column="11" />
+        <mark key="^" line="32" column="11" />
+        <mark key="." line="32" column="11" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/test/java/hw5/MarvelPathsTest.java" timestamp="1554759549596">
         <mark key="[" line="40" column="0" />
@@ -205,11 +212,11 @@
         <mark key="^" line="308" column="15" />
         <mark key="." line="308" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/memsim.py" timestamp="1556636356872">
-        <mark key="[" line="11" column="30" />
-        <mark key="]" line="11" column="59" />
-        <mark key="." line="11" column="59" />
-        <mark key="^" line="11" column="59" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/memsim.py" timestamp="1556638091113">
+        <mark key="[" line="20" column="79" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw7/CampusPathsView.java" timestamp="1555627683042">
         <mark key="[" line="1" column="0" />
@@ -244,46 +251,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw6/MarvelPaths2.java" />
       <jump line="103" column="34" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw7/CampusPathsGraphModel.java" />
       <jump line="9" column="35" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/project1.py" />
+      <jump line="0" column="28" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/simulator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAjIGZhYwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>float</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>burst_e</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBsb2dnaW5nCmltcG9ydCBzeXMKCmZyb20gY3B1X3NpbXVsYXRvciBpbXBvcnQgQ1BVU2ltdWxhdG9yCmZyb20gc3RhdF9sb2dnZXIgaW1wb3J0IFN0YXRMb2dnZXIKCgpkZWYgcGFyc2VfYXJncygpOgogICAgcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoKQoKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ3NlZWQnLCB0eXBlPWludCkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ19sYW1iZGEnLCB0eXBlPWZsb2F0KQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgndXBwZXJfYm91bmQnLCB0eXBlPWludCkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ251bV9wcm9jZXNzZXMnLCB0eXBlPWludCkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ3RjcycsIHR5cGU9aW50KQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnYWxwaGEnLCB0eXBlPWZsb2F0KQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgndHNsaWNlJywgdHlwZT1pbnQpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCdycl9kaXInLCBuYXJncz0nPycsIGRlZmF1bHQ9IkVORCIpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctLWZ1bGxfb3V0cHV0JywgYWN0aW9uPSdzdG9yZV90cnVlJykKICAgIHBhcnNlci5zZXRfZGVmYXVsdHMoZnVsbF9vdXRwdXQ9RmFsc2UpCgogICAgcmV0dXJuIHBhcnNlci5wYXJzZV9hcmdzKCkKCgpkZWYgY29uZmlndXJlX2xvZ2dlcigpOgogICAgbG9nZ2luZy5iYXNpY0NvbmZpZygKICAgICAgICBsZXZlbD1sb2dnaW5nLkRFQlVHLAogICAgICAgIGZvcm1hdD0nJShuYW1lKS0xMnMgJShsZXZlbG5hbWUpLThzICUobWVzc2FnZSlzJywKICAgICAgICBmaWxlbmFtZT0nZGVidWcubG9nJywKICAgICAgICBmaWxlbW9kZT0ndycKICAgICkKICAgIGNvbnNvbGUgPSBsb2dnaW5nLlN0cmVhbUhhbmRsZXIoc3lzLnN0ZG91dCkKICAgIGNvbnNvbGUuc2V0TGV2ZWwobG9nZ2luZy5JTkZPKQogICAgY29uc29sZS5zZXRGb3JtYXR0ZXIobG9nZ2luZy5Gb3JtYXR0ZXIoKSkKICAgIGxvZ2dpbmcuZ2V0TG9nZ2VyKCkuYWRkSGFuZGxlcihjb25zb2xlKQoKICAgIGVycm9yID0gbG9nZ2luZy5TdHJlYW1IYW5kbGVyKCkKICAgIGVycm9yLnNldExldmVsKGxvZ2dpbmcuRVJST1IpCiAgICBlcnJvci5zZXRGb3JtYXR0ZXIobG9nZ2luZy5Gb3JtYXR0ZXIoJ0VSUk9SOiAlKG1lc3NhZ2UpcycpKQogICAgbG9nZ2luZy5nZXRMb2dnZXIoKS5hZGRIYW5kbGVyKGVycm9yKQoKICAgIHJldHVybiBsb2dnaW5nLmdldExvZ2dlcigpCgoKZGVmIG1haW4oKToKICAgIGFyZ3MgPSBwYXJzZV9hcmdzKCkKCiAgICBsb2dnZXIgPSBjb25maWd1cmVfbG9nZ2VyKCkKICAgIHN0YXRfbG9nZ2VyID0gU3RhdExvZ2dlci5nZXRfbG9nZ2VyKCkKCiAgICBjcHVfc2ltID0gQ1BVU2ltdWxhdG9yKCoqdmFycyhhcmdzKSkKICAgIGNwdV9zaW0ucnVuKCkKCiAgICBzdGF0X2xvZ2dlci5hZ2dyZWdhdGUoInNpbW91dC50eHQiLCBhcmdzLnRjcykKCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgbWFpbigpCg==</text>
+        <text encoding="base64">ZnJvbSBsb2dnaW5nIGltcG9ydCBnZXRMb2dnZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAjIGZhYwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2NhbGxfXyhzZWxmLCBjb21tYW5kKToKCiAgICBkZWYgX19yZXByKHNlbGYpOgogICAgICAgICMgVE9ETwogICAgICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmlucHV0ID0gSW5wdXRQYXJzZXIoaW5wdXRfZm5hbWUpIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmt3YXJncyA9IGt3YXJncwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBwYXJzZXIgaW1wb3J0IElucHV0UGFyc2VyCg==</text>
+        <text encoding="base64">ICAgIGdrCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZV9hcmdzKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
