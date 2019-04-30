@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/project1.py" timestamp="1556634945945">
+        <mark key="'" line="9" column="35" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="58" column="9" />
+        <mark key="." line="54" column="47" />
+        <mark key="^" line="54" column="47" />
+      </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/test/java/hw4/NodeTest.java" timestamp="1554756821369">
         <mark key="[" line="24" column="12" />
         <mark key="]" line="24" column="18" />
@@ -24,6 +31,9 @@
         <mark key="^" line="93" column="73" />
         <mark key="." line="93" column="73" />
       </file>
+      <file name="/a.dummy" timestamp="1556636177710">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/test/java/hw4/GraphTest.java" timestamp="1554756838090">
         <mark key="[" line="10" column="17" />
         <mark key="]" line="10" column="31" />
@@ -36,6 +46,11 @@
         <mark key="." line="32" column="73" />
         <mark key="^" line="32" column="73" />
       </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/process.py" timestamp="1553712038581">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/4 Archive/1 Projects/rpi_f18/school_psoft/backwork/homework/hw4/presik/src/test/java/hw6/MarvelPaths2Test.java" timestamp="1554764897719">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="88" column="89" />
@@ -45,6 +60,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/queue.py" timestamp="1553527599884">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="5" />
+        <mark key="." line="6" column="5" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw7/Path.java" timestamp="1555693743364">
         <mark key="[" line="12" column="13" />
@@ -70,14 +90,51 @@
         <mark key="^" line="16" column="22" />
         <mark key="." line="42" column="27" />
       </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/stat_logger.py" timestamp="1553634403945">
+        <mark key="[" line="64" column="71" />
+        <mark key="]" line="64" column="73" />
+        <mark key="." line="64" column="73" />
+        <mark key="^" line="64" column="73" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/stat_logger.py" timestamp="1553525583405">
+        <mark key="[" line="56" column="64" />
+        <mark key="]" line="56" column="64" />
+        <mark key="^" line="56" column="64" />
+        <mark key="." line="56" column="64" />
+      </file>
       <file name="/Dummy.txt" timestamp="1555632399602">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/queue.py" timestamp="1553527173570">
+        <mark key="'" line="142" column="27" />
+        <mark key="[" line="27" column="42" />
+        <mark key="]" line="27" column="30" />
+        <mark key="." line="27" column="30" />
+        <mark key="^" line="27" column="30" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator.py" timestamp="1556635219331">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="68" />
+        <mark key="^" line="83" column="24" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw4/GraphWrapper.java" timestamp="1554756789176">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="8" column="26" />
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="26" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/project2.py" timestamp="1556635460961">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/parser.py" timestamp="1556635962702">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="26" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw5/MarvelPaths.java" timestamp="1554762420423">
         <mark key="[" line="80" column="0" />
@@ -91,10 +148,19 @@
         <mark key="." line="34" column="17" />
         <mark key="^" line="25" column="38" />
       </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/memory.py" timestamp="1556636572324">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/test/java/hw5/MarvelPathsTest.java" timestamp="1554759549596">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="/" timestamp="1552932411040">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw6/MarvelPaths2.java" timestamp="1554764759162">
         <mark key="[" line="110" column="0" />
@@ -114,11 +180,36 @@
         <mark key="^" line="121" column="53" />
         <mark key="." line="65" column="34" />
       </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/process.py" timestamp="1553526755572">
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="24" column="3" />
+        <mark key="^" line="24" column="3" />
+        <mark key="." line="24" column="3" />
+      </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw7/CampusPaths.java" timestamp="1555694211947">
         <mark key="[" line="13" column="12" />
         <mark key="]" line="13" column="24" />
         <mark key="^" line="13" column="24" />
         <mark key="." line="13" column="24" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/cpu_simulator.py" timestamp="1553523803602">
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="49" />
+        <mark key="^" line="19" column="49" />
+        <mark key="." line="19" column="49" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_queue.py" timestamp="1553732083093">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="308" column="0" />
+        <mark key="]" line="308" column="0" />
+        <mark key="^" line="308" column="15" />
+        <mark key="." line="308" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/memsim.py" timestamp="1556636356872">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="59" />
+        <mark key="." line="11" column="59" />
+        <mark key="^" line="11" column="59" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw7/CampusPathsView.java" timestamp="1555627683042">
         <mark key="[" line="1" column="0" />
@@ -152,46 +243,50 @@
       <jump line="2" column="6" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw6/MarvelPaths2.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw6/MarvelPaths2.java" />
       <jump line="103" column="34" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw7/CampusPathsGraphModel.java" />
+      <jump line="9" column="35" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/project1.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CSAgICAJCQo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAjIGZhYwo=</text>
       </register>
       <register name="-" type="4">
-        <text>art</text>
+        <text>float</text>
+      </register>
+      <register name="/" type="4">
+        <text>burst_e</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CSAgICAJbXNnICs9IGUuZ2V0TWVzc2FnZSgpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBsb2dnaW5nCmltcG9ydCBzeXMKCmZyb20gY3B1X3NpbXVsYXRvciBpbXBvcnQgQ1BVU2ltdWxhdG9yCmZyb20gc3RhdF9sb2dnZXIgaW1wb3J0IFN0YXRMb2dnZXIKCgpkZWYgcGFyc2VfYXJncygpOgogICAgcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoKQoKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ3NlZWQnLCB0eXBlPWludCkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ19sYW1iZGEnLCB0eXBlPWZsb2F0KQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgndXBwZXJfYm91bmQnLCB0eXBlPWludCkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ251bV9wcm9jZXNzZXMnLCB0eXBlPWludCkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ3RjcycsIHR5cGU9aW50KQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnYWxwaGEnLCB0eXBlPWZsb2F0KQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgndHNsaWNlJywgdHlwZT1pbnQpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCdycl9kaXInLCBuYXJncz0nPycsIGRlZmF1bHQ9IkVORCIpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctLWZ1bGxfb3V0cHV0JywgYWN0aW9uPSdzdG9yZV90cnVlJykKICAgIHBhcnNlci5zZXRfZGVmYXVsdHMoZnVsbF9vdXRwdXQ9RmFsc2UpCgogICAgcmV0dXJuIHBhcnNlci5wYXJzZV9hcmdzKCkKCgpkZWYgY29uZmlndXJlX2xvZ2dlcigpOgogICAgbG9nZ2luZy5iYXNpY0NvbmZpZygKICAgICAgICBsZXZlbD1sb2dnaW5nLkRFQlVHLAogICAgICAgIGZvcm1hdD0nJShuYW1lKS0xMnMgJShsZXZlbG5hbWUpLThzICUobWVzc2FnZSlzJywKICAgICAgICBmaWxlbmFtZT0nZGVidWcubG9nJywKICAgICAgICBmaWxlbW9kZT0ndycKICAgICkKICAgIGNvbnNvbGUgPSBsb2dnaW5nLlN0cmVhbUhhbmRsZXIoc3lzLnN0ZG91dCkKICAgIGNvbnNvbGUuc2V0TGV2ZWwobG9nZ2luZy5JTkZPKQogICAgY29uc29sZS5zZXRGb3JtYXR0ZXIobG9nZ2luZy5Gb3JtYXR0ZXIoKSkKICAgIGxvZ2dpbmcuZ2V0TG9nZ2VyKCkuYWRkSGFuZGxlcihjb25zb2xlKQoKICAgIGVycm9yID0gbG9nZ2luZy5TdHJlYW1IYW5kbGVyKCkKICAgIGVycm9yLnNldExldmVsKGxvZ2dpbmcuRVJST1IpCiAgICBlcnJvci5zZXRGb3JtYXR0ZXIobG9nZ2luZy5Gb3JtYXR0ZXIoJ0VSUk9SOiAlKG1lc3NhZ2UpcycpKQogICAgbG9nZ2luZy5nZXRMb2dnZXIoKS5hZGRIYW5kbGVyKGVycm9yKQoKICAgIHJldHVybiBsb2dnaW5nLmdldExvZ2dlcigpCgoKZGVmIG1haW4oKToKICAgIGFyZ3MgPSBwYXJzZV9hcmdzKCkKCiAgICBsb2dnZXIgPSBjb25maWd1cmVfbG9nZ2VyKCkKICAgIHN0YXRfbG9nZ2VyID0gU3RhdExvZ2dlci5nZXRfbG9nZ2VyKCkKCiAgICBjcHVfc2ltID0gQ1BVU2ltdWxhdG9yKCoqdmFycyhhcmdzKSkKICAgIGNwdV9zaW0ucnVuKCkKCiAgICBzdGF0X2xvZ2dlci5hZ2dyZWdhdGUoInNpbW91dC50eHQiLCBhcmdzLnRjcykKCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgbWFpbigpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAgICAJCQo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAjIGZhYwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAgICAJZXJyb3IgPSB0cnVlOwoJCQltc2cgKz0gZS5nZXRNZXNzYWdlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmlucHV0ID0gSW5wdXRQYXJzZXIoaW5wdXRfZm5hbWUpIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmt3YXJncyA9IGt3YXJncwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAgICBCdWlsZGluZyBzdGFydEJ1aWxkaW5nOwoJICAgIEJ1aWxkaW5nIGVuZEJ1aWxkaW5nOwo=</text>
+        <text encoding="base64">ZnJvbSBwYXJzZXIgaW1wb3J0IElucHV0UGFyc2VyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIHJlZmFjdG9yIHNvIHRoYXQgYm90aCBleGNlcHRpb25zIGFyZSBwcmludGVkIG91dCBpZiBib3RoCgkJLy8gIGJ1aWxkaW5ncyBhcmUgdW5rbm93bgo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlTdHJpbmcgaWQxID0gYnVpbGRpbmdfaWRzWzBdOwoJCVN0cmluZyBpZDIgPSBidWlsZGluZ19pZHNbMV07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAgICAJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAgICBTdHJpbmcgbWVzc2FnZTsK</text>
+        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZV9hcmdzKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>89</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -199,26 +294,48 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxUT0RPXD4=</entry>
+        <entry>check_context</entry>
+        <entry>burst_e</entry>
+      </history-search>
       <history-cmd>
+        <entry>CtrlPBuffer</entry>
+        <entry>49</entry>
+        <entry>70</entry>
+        <entry>158</entry>
+        <entry>186</entry>
+        <entry>92</entry>
+        <entry>34</entry>
+        <entry>111</entry>
+        <entry>237</entry>
+        <entry>107</entry>
         <entry>w</entry>
-        <entry>89</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
