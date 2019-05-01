@@ -155,11 +155,12 @@
         <mark key="." line="34" column="17" />
         <mark key="^" line="25" column="38" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/memory.py" timestamp="1556674267525">
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/memory.py" timestamp="1556674903670">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
+        <mark key="[" line="27" column="7" />
+        <mark key="]" line="27" column="7" />
+        <mark key="." line="27" column="7" />
+        <mark key="^" line="27" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/test/java/hw5/MarvelPathsTest.java" timestamp="1554759549596">
         <mark key="[" line="40" column="0" />
@@ -257,11 +258,11 @@
       <jump line="3" column="0" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/memory.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>burst_e</text>
@@ -272,29 +273,29 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8gYWRkIGluZGV4aW5nIGJ5IGJsb2NrCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmbGF0ID0gW10KICAgICAgICBmb3IgcGlkLCBibG9ja3MgaW4gc2VsZi5waWRzLml0ZW1zKCk6CiAgICAgICAgICAgIGZsYXQuZXh0ZW5kKGJsb2NrcykKICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmbGF0ID0gW10KICAgICAgICBmb3IgcGlkLCBibG9ja3MgaW4gc2VsZi5waWRzLml0ZW1zKCk6CiAgICAgICAgICAgIGZsYXQuZXh0ZW5kKGJsb2NrcykKICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE8gYWRkIGluZGV4aW5nIGJ5IGJsb2NrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmbGF0LnNvcnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBmbGF0ID0gW10KICAgICAgICBmb3IgcGlkLCBibG9ja3MgaW4gc2VsZi5waWRzLml0ZW1zKCk6CiAgICAgICAgICAgIGZsYXQuZXh0ZW5kKGJsb2NrcykKICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmbGF0ID0gW10KICAgICAgICBmb3IgcGlkLCBibG9ja3MgaW4gc2VsZi5waWRzLml0ZW1zKCk6CiAgICAgICAgICAgIGZsYXQuZXh0ZW5kKGJsb2NrcykKICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBteCA9IDAKICAgICAgICBjb3VudCA9IDAK</text>
+        <text encoding="base64">ICAgICAgICBmbGF0LnNvcnQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgZm9yIG4gaW4gcmFuZ2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBpZHMgPSB7fQo=</text>
+        <text encoding="base64">ICAgICAgICBteCA9IDAKICAgICAgICBjb3VudCA9IDAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
