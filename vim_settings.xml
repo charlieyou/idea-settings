@@ -155,11 +155,11 @@
         <mark key="." line="34" column="17" />
         <mark key="^" line="25" column="38" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/memory.py" timestamp="1556658556787">
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/memory.py" timestamp="1556674267525">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/test/java/hw5/MarvelPathsTest.java" timestamp="1554759549596">
         <mark key="[" line="40" column="0" />
@@ -258,10 +258,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>burst_e</text>
@@ -270,31 +270,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnF1ZXVlLnB1dCgoc3RhcnQsIE1lbW9yeUNvbW1hbmQoJ3BsYWNlJywgcHJvY2VzcykpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE8gYWRkIGluZGV4aW5nIGJ5IGJsb2NrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaSA9PSAwOgo=</text>
+        <text encoding="base64">ICAgICAgICBmbGF0ID0gW10KICAgICAgICBmb3IgcGlkLCBibG9ja3MgaW4gc2VsZi5waWRzLml0ZW1zKCk6CiAgICAgICAgICAgIGZsYXQuZXh0ZW5kKGJsb2NrcykKICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG4gPSBzW2ldWzBdWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICBmbGF0ID0gW10KICAgICAgICBmb3IgcGlkLCBibG9ja3MgaW4gc2VsZi5waWRzLml0ZW1zKCk6CiAgICAgICAgICAgIGZsYXQuZXh0ZW5kKGJsb2NrcykKICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbiA9IDAK</text>
+        <text encoding="base64">ICAgICAgICBmbGF0LnNvcnQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuX3NoaWZ0KHMsIHNbbl1bMF0gLSBzW24tMV1bMV0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuX3NoaWZ0KHMsIHNbbl1bMF0pCg==</text>
+        <text encoding="base64">ICAgICAgICBteCA9IDAKICAgICAgICBjb3VudCA9IDAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5fZnJhbWVzX21vdmVkID0gCg==</text>
+        <text encoding="base64">CiAgICAgICAgZm9yIG4gaW4gcmFuZ2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBpZHMgPSB7fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
