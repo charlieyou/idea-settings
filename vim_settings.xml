@@ -131,17 +131,17 @@
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="26" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/project2.py" timestamp="1556635460961">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/project2.py" timestamp="1556763026558">
+        <mark key="[" line="25" column="34" />
+        <mark key="]" line="26" column="66" />
+        <mark key="." line="26" column="66" />
+        <mark key="^" line="26" column="66" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/parser.py" timestamp="1556745881768">
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="17" />
-        <mark key="." line="12" column="17" />
-        <mark key="^" line="12" column="17" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/parser.py" timestamp="1556767894756">
+        <mark key="[" line="38" column="16" />
+        <mark key="]" line="38" column="11" />
+        <mark key="." line="38" column="11" />
+        <mark key="^" line="38" column="11" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw5/MarvelPaths.java" timestamp="1554762420423">
         <mark key="[" line="80" column="0" />
@@ -155,12 +155,12 @@
         <mark key="." line="34" column="17" />
         <mark key="^" line="25" column="38" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/memory.py" timestamp="1556746295157">
+      <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/memory.py" timestamp="1556770527127">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="29" column="46" />
-        <mark key="." line="30" column="0" />
+        <mark key="[" line="199" column="36" />
+        <mark key="]" line="199" column="36" />
+        <mark key="^" line="199" column="36" />
+        <mark key="." line="199" column="36" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/test/java/hw5/MarvelPathsTest.java" timestamp="1554759549596">
         <mark key="[" line="40" column="0" />
@@ -262,46 +262,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jb21tYW5kID4gb3RoZXIuY29tbWFuZCBhbmQgc2VsZi5wcm9jZXNzLnBpZCA8IFwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvdGhlci5wcm9jZXNzLnBpZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>_initialize</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>burst_e</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnF1ZXVlID0gUHJpb3JpdHlRdWV1ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuaW5zZXJ0KHByb2Nlc3MucGlkLCBzdGFydCwgc3RhcnQgKyBwcm9jZXNzLm5fZnJhbWVzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jb21tYW5kID4gb3RoZXIuY29tbWFuZCBhbmQgc2VsZi5wcm9jZXNzLnBpZCA8IFwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvdGhlci5wcm9jZXNzLnBpZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiByZXNldChzZWxmKToKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnF1ZXVlID0gTm9uZQo=</text>
+        <text encoding="base64">CiAgICAgICAgaWYgcyArIDEgPCBsZW4oYmxvY2tzKSBhbmQgc2VsZi5uZXh0X2ZyYW1lICsgcHJvY2Vzcy5uX2ZyYW1lcyA8PSBcCiAgICAgICAgICAgICAgICBibG9ja3NbcyArIDFdWzBdWzBdOgogICAgICAgICAgICBzZWxmLmluc2VydChwcm9jZXNzLnBpZCwgc2VsZi5uZXh0X2ZyYW1lLCBzZWxmLm5leHRfZnJhbWUgKwogICAgICAgICAgICAgICAgICAgICAgICBwcm9jZXNzLm5fZnJhbWVzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnF1ZXVlID0gUHJpb3JpdHlRdWV1ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGkgPT0gMDoKICAgICAgICAgICAgICAgICAgICBzID0gMQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhbGdvcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5uX2ZyYW1lcyAtIHNlbGYubmV4dF9mcmFtZSA+PSBwcm9jZXNzLm5fZnJhbWVzOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGFsZ28gbm90IGluIGFsZ29zOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoYWxnbykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuaW5zZXJ0KHByb2Nlc3MucGlkLCBzZWxmLm5leHRfZnJhbWUsIHNlbGYubmV4dF9mcmFtZSArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9jZXNzLm5fZnJhbWVzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>148</text>
+        <text>183</text>
       </register>
     </registers>
     <search>
@@ -328,6 +328,9 @@
         <entry>w</entry>
         <entry>17</entry>
         <entry>148</entry>
+        <entry>83</entry>
+        <entry>138</entry>
+        <entry>183</entry>
       </history-cmd>
       <history-expr />
       <history-input />
