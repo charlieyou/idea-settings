@@ -109,6 +109,12 @@
         <mark key="^" line="56" column="64" />
         <mark key="." line="56" column="64" />
       </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/lectures/p2/OOPBasics.scala" timestamp="1561386667421">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="16" column="25" />
+        <mark key="^" line="16" column="25" />
+        <mark key="." line="16" column="25" />
+      </file>
       <file name="/Dummy.txt" timestamp="1555632399602">
         <mark key="[" line="0" column="0" />
       </file>
@@ -261,11 +267,11 @@
       <jump line="58" column="27" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/memory.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>burst_e</text>
@@ -274,31 +280,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuaW5zZXJ0KHByb2Nlc3MucGlkLCBzdGFydCwgc3RhcnQgKyBwcm9jZXNzLm5fZnJhbWVzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgcyArIDEgPCBsZW4oYmxvY2tzKSBhbmQgc2VsZi5uZXh0X2ZyYW1lICsgcHJvY2Vzcy5uX2ZyYW1lcyA8PSBcCiAgICAgICAgICAgICAgICBibG9ja3NbcyArIDFdWzBdWzBdOgogICAgICAgICAgICBzZWxmLmluc2VydChwcm9jZXNzLnBpZCwgc2VsZi5uZXh0X2ZyYW1lLCBzZWxmLm5leHRfZnJhbWUgKwogICAgICAgICAgICAgICAgICAgICAgICBwcm9jZXNzLm5fZnJhbWVzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGkgPT0gMDoKICAgICAgICAgICAgICAgICAgICBzID0gMQo=</text>
+        <text encoding="base64">CiAgICAgICAgaWYgcyArIDEgPCBsZW4oYmxvY2tzKSBhbmQgc2VsZi5uZXh0X2ZyYW1lICsgcHJvY2Vzcy5uX2ZyYW1lcyA8PSBcCiAgICAgICAgICAgICAgICBibG9ja3NbcyArIDFdWzBdWzBdOgogICAgICAgICAgICBzZWxmLmluc2VydChwcm9jZXNzLnBpZCwgc2VsZi5uZXh0X2ZyYW1lLCBzZWxmLm5leHRfZnJhbWUgKwogICAgICAgICAgICAgICAgICAgICAgICBwcm9jZXNzLm5fZnJhbWVzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5uX2ZyYW1lcyAtIHNlbGYubmV4dF9mcmFtZSA+PSBwcm9jZXNzLm5fZnJhbWVzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGkgPT0gMDoKICAgICAgICAgICAgICAgICAgICBzID0gMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuaW5zZXJ0KHByb2Nlc3MucGlkLCBzZWxmLm5leHRfZnJhbWUsIHNlbGYubmV4dF9mcmFtZSArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9jZXNzLm5fZnJhbWVzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5uX2ZyYW1lcyAtIHNlbGYubmV4dF9mcmFtZSA+PSBwcm9jZXNzLm5fZnJhbWVzOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuaW5zZXJ0KHByb2Nlc3MucGlkLCBzZWxmLm5leHRfZnJhbWUsIHNlbGYubmV4dF9mcmFtZSArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9jZXNzLm5fZnJhbWVzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>183</text>
@@ -359,6 +365,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
