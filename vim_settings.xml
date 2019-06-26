@@ -135,11 +135,11 @@
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="26" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/lectures/p2/GenericCollection.scala" timestamp="1561559412140">
-        <mark key="[" line="47" column="5" />
-        <mark key="]" line="46" column="34" />
-        <mark key="." line="46" column="34" />
-        <mark key="^" line="46" column="34" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/lectures/p2/GenericCollection.scala" timestamp="1561561424900">
+        <mark key="[" line="64" column="46" />
+        <mark key="]" line="65" column="46" />
+        <mark key="." line="65" column="46" />
+        <mark key="^" line="65" column="46" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/project2.py" timestamp="1556763026558">
         <mark key="[" line="25" column="34" />
@@ -271,11 +271,11 @@
       <jump line="58" column="27" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/memory.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBtYXBbQl0odHJhbnNmb3JtZXI6IE15VHJhbnNmb3JtZXJbTm90aGluZywgTm90aGluZ10pOiBFbXB0eSA9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Nothing</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3ZlcnJpZGUg</text>
+        <text>Nothing</text>
       </register>
       <register name="/" type="4">
         <text>burst_e</text>
@@ -284,31 +284,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuaW5zZXJ0KHByb2Nlc3MucGlkLCBzdGFydCwgc3RhcnQgKyBwcm9jZXNzLm5fZnJhbWVzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBtYXBbQl0odHJhbnNmb3JtZXI6IE15VHJhbnNmb3JtZXJbTm90aGluZywgTm90aGluZ10pOiBFbXB0eSA9Cg==</text>
+        <text encoding="base64">ICAgIC8vIGRvZXMgdGhpcyB3b3JrPwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlZiBtYXBbQl0odHJhbnNmb3JtZXI6IE15VHJhbnNmb3JtZXJbTm90aGluZywgTm90aGluZ10pOiBFbXB0eSA9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgcyArIDEgPCBsZW4oYmxvY2tzKSBhbmQgc2VsZi5uZXh0X2ZyYW1lICsgcHJvY2Vzcy5uX2ZyYW1lcyA8PSBcCiAgICAgICAgICAgICAgICBibG9ja3NbcyArIDFdWzBdWzBdOgogICAgICAgICAgICBzZWxmLmluc2VydChwcm9jZXNzLnBpZCwgc2VsZi5uZXh0X2ZyYW1lLCBzZWxmLm5leHRfZnJhbWUgKwogICAgICAgICAgICAgICAgICAgICAgICBwcm9jZXNzLm5fZnJhbWVzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGkgPT0gMDoKICAgICAgICAgICAgICAgICAgICBzID0gMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
