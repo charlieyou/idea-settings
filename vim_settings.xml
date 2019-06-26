@@ -21,10 +21,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/4 Archive/1 Projects/rpi_f18/school_psoft/hw4/src/main/java/hw7/CampusPathsGraphModel.java" timestamp="1555645730049">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="41" />
-      </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw7/CampusPath.java" timestamp="1555695012887">
         <mark key="[" line="93" column="36" />
         <mark key="]" line="93" column="73" />
@@ -50,10 +46,6 @@
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/4 Archive/1 Projects/rpi_f18/school_psoft/backwork/homework/hw4/presik/src/test/java/hw6/MarvelPaths2Test.java" timestamp="1554764897719">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="88" column="89" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/simulator.py" timestamp="1556745902260">
         <mark key="'" line="0" column="28" />
@@ -103,6 +95,12 @@
         <mark key="." line="64" column="73" />
         <mark key="^" line="64" column="73" />
       </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/lectures/p2/package.scala" timestamp="1561557686614">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+      </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/1/cpu_simulator/stat_logger.py" timestamp="1553525583405">
         <mark key="[" line="56" column="64" />
         <mark key="]" line="56" column="64" />
@@ -136,6 +134,12 @@
         <mark key="]" line="8" column="26" />
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="26" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/lectures/p2/GenericCollection.scala" timestamp="1561559412140">
+        <mark key="[" line="47" column="5" />
+        <mark key="]" line="46" column="34" />
+        <mark key="." line="46" column="34" />
+        <mark key="^" line="46" column="34" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/project2.py" timestamp="1556763026558">
         <mark key="[" line="25" column="34" />
@@ -267,11 +271,11 @@
       <jump line="58" column="27" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/memory.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiBtYXBbQl0odHJhbnNmb3JtZXI6IE15VHJhbnNmb3JtZXJbTm90aGluZywgTm90aGluZ10pOiBFbXB0eSA9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">b3ZlcnJpZGUg</text>
       </register>
       <register name="/" type="4">
         <text>burst_e</text>
@@ -280,34 +284,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuaW5zZXJ0KHByb2Nlc3MucGlkLCBzdGFydCwgc3RhcnQgKyBwcm9jZXNzLm5fZnJhbWVzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlZiBtYXBbQl0odHJhbnNmb3JtZXI6IE15VHJhbnNmb3JtZXJbTm90aGluZywgTm90aGluZ10pOiBFbXB0eSA9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgcyArIDEgPCBsZW4oYmxvY2tzKSBhbmQgc2VsZi5uZXh0X2ZyYW1lICsgcHJvY2Vzcy5uX2ZyYW1lcyA8PSBcCiAgICAgICAgICAgICAgICBibG9ja3NbcyArIDFdWzBdWzBdOgogICAgICAgICAgICBzZWxmLmluc2VydChwcm9jZXNzLnBpZCwgc2VsZi5uZXh0X2ZyYW1lLCBzZWxmLm5leHRfZnJhbWUgKwogICAgICAgICAgICAgICAgICAgICAgICBwcm9jZXNzLm5fZnJhbWVzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGkgPT0gMDoKICAgICAgICAgICAgICAgICAgICBzID0gMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5uX2ZyYW1lcyAtIHNlbGYubmV4dF9mcmFtZSA+PSBwcm9jZXNzLm5fZnJhbWVzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuaW5zZXJ0KHByb2Nlc3MucGlkLCBzZWxmLm5leHRfZnJhbWUsIHNlbGYubmV4dF9mcmFtZSArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9jZXNzLm5fZnJhbWVzKQo=</text>
+        <text encoding="base64">CiAgICAgICAgaWYgcyArIDEgPCBsZW4oYmxvY2tzKSBhbmQgc2VsZi5uZXh0X2ZyYW1lICsgcHJvY2Vzcy5uX2ZyYW1lcyA8PSBcCiAgICAgICAgICAgICAgICBibG9ja3NbcyArIDFdWzBdWzBdOgogICAgICAgICAgICBzZWxmLmluc2VydChwcm9jZXNzLnBpZCwgc2VsZi5uZXh0X2ZyYW1lLCBzZWxmLm5leHRfZnJhbWUgKwogICAgICAgICAgICAgICAgICAgICAgICBwcm9jZXNzLm5fZnJhbWVzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGkgPT0gMDoKICAgICAgICAgICAgICAgICAgICBzID0gMQo=</text>
       </register>
       <register name=":" type="4">
-        <text>183</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -331,12 +335,12 @@
         <entry>111</entry>
         <entry>237</entry>
         <entry>107</entry>
-        <entry>w</entry>
         <entry>17</entry>
         <entry>148</entry>
         <entry>83</entry>
         <entry>138</entry>
         <entry>183</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
