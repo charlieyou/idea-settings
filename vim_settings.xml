@@ -83,8 +83,11 @@
         <mark key="^" line="5" column="46" />
         <mark key="." line="5" column="46" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/filesystem/commands/Cd.scala" timestamp="1562773524686">
-        <mark key="[" line="4" column="47" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/filesystem/commands/Cd.scala" timestamp="1562775736099">
+        <mark key="[" line="4" column="46" />
+        <mark key="]" line="4" column="46" />
+        <mark key="^" line="4" column="46" />
+        <mark key="." line="4" column="46" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/filesystem/commands/CreateEntry.scala" timestamp="1562773363300">
         <mark key="'" line="6" column="0" />
