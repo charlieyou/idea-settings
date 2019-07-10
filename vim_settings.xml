@@ -37,10 +37,12 @@
         <mark key="." line="32" column="73" />
         <mark key="^" line="32" column="73" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/filesystem/files/Directory.scala" timestamp="1562766800501">
-        <mark key="]" line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-        <mark key="." line="6" column="1" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/filesystem/files/Directory.scala" timestamp="1562768983488">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="9" column="40" />
+        <mark key="]" line="9" column="37" />
+        <mark key="^" line="9" column="37" />
+        <mark key="." line="9" column="37" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/simulator.py" timestamp="1556745902260">
         <mark key="'" line="0" column="28" />
@@ -67,11 +69,8 @@
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="12" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/filesystem/commands/Mkdir.scala" timestamp="1562767432717">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/filesystem/commands/Mkdir.scala" timestamp="1562769130339">
+        <mark key="[" line="26" column="63" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw7/CampusPathsTextController.java" timestamp="1555691298081">
         <mark key="[" line="23" column="6" />
@@ -285,13 +284,14 @@
       <jump line="58" column="27" filename="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/memory.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/filesystem/files/Directory.scala" />
       <jump line="14" column="51" filename="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/filesystem/commands/Command.scala" />
+      <jump line="7" column="0" filename="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/filesystem/files/Directory.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgZGVmIGRvTWtkaXIobmFtZTogU3RyaW5nKTogU3RhdGUgPSA/Pz8K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>root: Directory, allDirsInPath: String, )</text>
       </register>
       <register name="/" type="4">
         <text>burst_e</text>
@@ -300,31 +300,31 @@
         <text encoding="base64">ICBkZWYgZW1wdHlDb21tYW5kOiBDb21tYW5kID0gPz8/Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgZGVmIGRvTWtkaXIobmFtZTogU3RyaW5nKTogU3RhdGUgPSA/Pz8K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgU3RhdGUuYXBwbHkoc3RhdGUucm9vdCwgc3RhdGUuKQo=</text>
+        <text encoding="base64">ICBkZWYgdXBkYXRlRGlyU3RydWN0dXJlKHJvb3Q6IERpcmVjdG9yeSwgYWxsRGlyc0luUGF0aDogU3RyaW5nKTogID0gPz8/Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5ldyBVbmtub3duQ29tbWFuZAo=</text>
+        <text encoding="base64">CiAgZGVmIGRvTWtkaXIobmFtZTogU3RyaW5nKTogU3RhdGUgPSA/Pz8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmFsIE1LRElSID0gIm1rZGlyIgo=</text>
+        <text encoding="base64">ICAgICAgU3RhdGUuYXBwbHkoc3RhdGUucm9vdCwgc3RhdGUuKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YWwgTUtESVIgPSAibWtkaXIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG5ldyBVbmtub3duQ29tbWFuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdmFsIE1LRElSID0gIm1rZGlyIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIiQgIikK</text>
+        <text encoding="base64">ICB2YWwgTUtESVIgPSAibWtkaXIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
