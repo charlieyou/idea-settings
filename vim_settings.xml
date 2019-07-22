@@ -12,6 +12,12 @@
         <mark key="^" line="10" column="31" />
         <mark key="." line="10" column="31" />
       </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/filesystem/commands/Cat.scala" timestamp="1563809185272">
+        <mark key="[" line="8" column="48" />
+        <mark key="]" line="9" column="49" />
+        <mark key="^" line="9" column="49" />
+        <mark key="." line="9" column="49" />
+      </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/test/java/hw7/CampusPathsTest.java" timestamp="1555690432466">
         <mark key="[" line="32" column="79" />
         <mark key="]" line="32" column="73" />
@@ -38,11 +44,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/filesystem/filesystem/Filesystem.scala" timestamp="1561644391026">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="9" column="28" />
-        <mark key="^" line="9" column="28" />
-        <mark key="." line="9" column="28" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/filesystem/filesystem/Filesystem.scala" timestamp="1563809607595">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="8" column="37" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw7/Path.java" timestamp="1555693743364">
         <mark key="[" line="12" column="13" />
@@ -102,11 +108,11 @@
         <mark key="^" line="59" column="72" />
         <mark key="." line="59" column="72" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/filesystem/commands/Command.scala" timestamp="1562862589948">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="14" column="13" />
-        <mark key="." line="14" column="13" />
-        <mark key="^" line="14" column="13" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/filesystem/commands/Command.scala" timestamp="1563809296673">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="38" />
+        <mark key="." line="22" column="38" />
+        <mark key="^" line="22" column="38" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/project2.py" timestamp="1556763026558">
         <mark key="[" line="25" column="34" />
@@ -114,7 +120,18 @@
         <mark key="." line="26" column="66" />
         <mark key="^" line="26" column="66" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/filesystem/commands/Rm.scala" timestamp="1562862275443" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/filesystem/commands/Rm.scala" timestamp="1563807123076">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="50" />
+        <mark key="^" line="4" column="50" />
+        <mark key="." line="4" column="50" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/filesystem/commands/Echo.scala" timestamp="1563808915285">
+        <mark key="[" line="67" column="53" />
+        <mark key="]" line="67" column="58" />
+        <mark key="^" line="67" column="58" />
+        <mark key="." line="67" column="58" />
+      </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/opsys/p/2/parser.py" timestamp="1556767894756">
         <mark key="[" line="38" column="16" />
         <mark key="]" line="38" column="11" />
@@ -186,11 +203,11 @@
         <mark key="^" line="2" column="76" />
         <mark key="." line="2" column="76" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/filesystem/files/File.scala" timestamp="1562858918963">
-        <mark key="[" line="18" column="36" />
-        <mark key="]" line="18" column="36" />
-        <mark key="^" line="18" column="36" />
-        <mark key="." line="18" column="36" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/filesystem/files/File.scala" timestamp="1563809195609">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="6" column="15" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/filesystem/commands/Ls.scala" timestamp="1562771382320">
         <mark key="[" line="3" column="0" />
@@ -335,44 +352,44 @@
       <jump line="6" column="0" filename="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/filesystem/commands/CreateEntry.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>burst_e</text>
       </register>
-      <register name="0" type="4">
-        <text>An</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgfSBlbHNlIGlmIChSTS5lcXVhbHModG9rZW5zKDApKSkgewogICAgICAgIGlmICh0b2tlbnMubGVuZ3RoIDwgMikgaW5jb21wbGV0ZUNvbW1hbmQoUk0pCiAgICAgICAgZWxzZSBuZXcgUm0odG9rZW5zKDEpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBlbnRyeVRvUmVtb3ZlID0gPz8/Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmltcG9ydCBqYXZhLnV0aWwuU2Nhbm5lcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPIGdldCByaWQgb2YgdGhpcyB2YXIKICB2YXIgc3RhdGUgPSBTdGF0ZShyb290LCByb290KQogIHZhbCBzY2FubmVyID0gbmV3IFNjYW5uZXIoU3lzdGVtLmluKQoKICB3aGlsZSAodHJ1ZSkgewogICAgc3RhdGUuc2hvdwogICAgdmFsIGlucHV0ID0gc2Nhbm5lci5uZXh0TGluZSgpCiAgICBzdGF0ZSA9IENvbW1hbmQuZnJvbShpbnB1dCkuYXBwbHkoc3RhdGUpCiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGZpbGVzeXN0ZW0uZmlsZXN5c3RlbS5TdGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBmdWxsUGF0aCA9IHdkLnBhdGgK</text>
+        <text encoding="base64">ICAgIG5ldyBGaWxlKHBhcmVudFBhdGgsIG5hbWUsIGNvbnRlbnRzICsgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBuZXdEaXIgPSBEaXJlY3RvcnkuZW1wdHkoZnVsbFBhdGgsIG5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgZWxzZSBpZiAoYXBwZW5kKQogICAgICAgIHdkLnJlcGxhY2VFbnRyeShwYXRoLmhlYWQsIGRpckVudHJ5LmFzRmlsZS5hcHBlbmRDb250ZW50cyhjb250ZW50cykpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgYXBwbHkoc3RhdGU6IFN0YXRlKTogU3RhdGUgPSA/Pz8K</text>
+        <text encoding="base64">ICAgICAgZWxzZSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGZpbGVzeXN0ZW0uZmlsZXMue0RpckVudHJ5LCBEaXJlY3Rvcnl9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uamF2YS51dGlsLmphci5wYWNrLlBhY2thZ2UuRmlsZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -380,7 +397,7 @@
     </registers>
     <search>
       <last-dir>0</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -389,7 +406,6 @@
         <entry>burst_e</entry>
       </history-search>
       <history-cmd>
-        <entry>CtrlPBuffer</entry>
         <entry>49</entry>
         <entry>70</entry>
         <entry>158</entry>
@@ -406,6 +422,7 @@
         <entry>183</entry>
         <entry>bp</entry>
         <entry>:w</entry>
+        <entry>CtrlPBuffer</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
