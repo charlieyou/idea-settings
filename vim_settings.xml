@@ -102,11 +102,11 @@
         <mark key="." line="17" column="5" />
         <mark key="^" line="48" column="1" />
       </file>
-      <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/lectures/p2/GenericCollection.scala" timestamp="1563891270186">
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="19" />
-        <mark key="^" line="17" column="19" />
-        <mark key="." line="17" column="19" />
+      <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/lectures/p2/GenericCollection.scala" timestamp="1563891587089">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="11" />
+        <mark key="^" line="18" column="11" />
+        <mark key="." line="18" column="11" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/filesystem/commands/Command.scala" timestamp="1563809296673">
         <mark key="[" line="21" column="0" />
@@ -191,6 +191,13 @@
         <mark key="^" line="24" column="18" />
         <mark key="." line="24" column="18" />
       </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/exercises/HOFs.scala" timestamp="1563893415941">
+        <mark key="'" line="7" column="13" />
+        <mark key="[" line="7" column="43" />
+        <mark key="]" line="7" column="42" />
+        <mark key="^" line="7" column="42" />
+        <mark key="." line="7" column="42" />
+      </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/rpi_s19/psoft/hw/4/src/main/java/hw7/CampusPath.java" timestamp="1555695012887">
         <mark key="[" line="93" column="36" />
         <mark key="]" line="93" column="73" />
@@ -238,6 +245,12 @@
         <mark key="]" line="56" column="64" />
         <mark key="^" line="56" column="64" />
         <mark key="." line="56" column="64" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/exercises/GenericCollection.scala" timestamp="1563893046995">
+        <mark key="[" line="86" column="49" />
+        <mark key="]" line="86" column="46" />
+        <mark key="." line="86" column="46" />
+        <mark key="^" line="86" column="46" />
       </file>
       <file name="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/lectures/p2/OOPBasics.scala" timestamp="1561386667421">
         <mark key="[" line="12" column="3" />
@@ -350,46 +363,47 @@
       <jump line="14" column="51" filename="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/filesystem/commands/Command.scala" />
       <jump line="7" column="0" filename="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/filesystem/files/Directory.scala" />
       <jump line="6" column="0" filename="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/filesystem/commands/CreateEntry.scala" />
+      <jump line="7" column="13" filename="$USER_HOME$/Dropbox/1 Projects/learn_scala/rtj_scala_essentials/src/exercises/HOFs.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text encoding="base64">KGY6IEludCA9PiBJbnQsIGc6IEludCA9PiBJbnQp</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text encoding="base64">KGY6IEludCA9PiBJbnQsIGc6IEludCA9PiBJbnQp</text>
       </register>
       <register name="/" type="4">
         <text>burst_e</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIGlmIChSTS5lcXVhbHModG9rZW5zKDApKSkgewogICAgICAgIGlmICh0b2tlbnMubGVuZ3RoIDwgMikgaW5jb21wbGV0ZUNvbW1hbmQoUk0pCiAgICAgICAgZWxzZSBuZXcgUm0odG9rZW5zKDEpKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">W0EsIEIsIFRdKGY6IEEgPT4gQiwgZzogVCA9PiBBKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhYnN0cmFjdCBjbGFzcyBNeVByZWRpY2F0ZVstVF0gewogICAgZGVmIHRlc3QodDogVCk6IEJvb2xlYW4KICB9CgogIGFic3RyYWN0IGNsYXNzIE15VHJhbnNmb3JtZXJbLUEsIEJdIHsKICAgIGRlZiB0cmFuc2Zvcm0oYTogQSk6IEIKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgbmV3IENvbnMoZihoLCBzdGFydCksIHQuZm9sZChmKGgsIHN0YXJ0KSkoZikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmltcG9ydCBqYXZhLnV0aWwuU2Nhbm5lcgo=</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIHppcFdpdGgoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIGdldCByaWQgb2YgdGhpcyB2YXIKICB2YXIgc3RhdGUgPSBTdGF0ZShyb290LCByb290KQogIHZhbCBzY2FubmVyID0gbmV3IFNjYW5uZXIoU3lzdGVtLmluKQoKICB3aGlsZSAodHJ1ZSkgewogICAgc3RhdGUuc2hvdwogICAgdmFsIGlucHV0ID0gc2Nhbm5lci5uZXh0TGluZSgpCiAgICBzdGF0ZSA9IENvbW1hbmQuZnJvbShpbnB1dCkuYXBwbHkoc3RhdGUpCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCgo=</text>
+        <text encoding="base64">ICAgIGRlZiB6aXBXaXRoW0JdKGw6IE15TGlzdFtdLCBmOiAoTm90aGluZywgTm90aGluZykgPT4gQik6IE15TGlzdFtCXSA9CiAgICAgID8/PwogICAgZGVmIGZvbGQoc3RhcnQ6IE5vdGhpbmcpKAogICAgICBmOiAoTm90aGluZywgTm90aGluZykgPT4gTm90aGluZwogICAgKTogTXlMaXN0W05vdGhpbmddID0gPz8/Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5ldyBGaWxlKHBhcmVudFBhdGgsIG5hbWUsIGNvbnRlbnRzICsgKQo=</text>
+        <text encoding="base64">ICAgIGRlZiB6aXBXaXRoW0JdKGw6IE15TGlzdFtBXSwgZjogKEEsIEEpID0+IEIpOiBNeUxpc3RbQl0gPSA/Pz8KCiAgICBkZWYgZm9sZChzdGFydDogQSkoZjogKEEsIEEpID0+IEEpOiBNeUxpc3RbQV0gPSA/Pz8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZWxzZSBpZiAoYXBwZW5kKQogICAgICAgIHdkLnJlcGxhY2VFbnRyeShwYXRoLmhlYWQsIGRpckVudHJ5LmFzRmlsZS5hcHBlbmRDb250ZW50cyhjb250ZW50cykpCg==</text>
+        <text encoding="base64">ICAgIGRlZiB6aXBXaXRoW0JdKGw6IE15TGlzdFtBXSwgZjogKEEsIEEpID0+IEIpOiBNeUxpc3RbQl0gPSA/Pz8KCiAgICBkZWYgZm9sZChzdGFydDogQSkoZjogKEEsIEEpID0+IEEpOiBNeUxpc3RbQV0gPSA/Pz8KICB9CgogIHZhbCBsMTogTXlMaXN0W0ludF0gPSBuZXcgQ29ucygxLCBuZXcgQ29ucygyLCBuZXcgQ29ucygzLCBFbXB0eSkpKQogIHByaW50bG4obDEucHJpbnRFbGVtZW50cykKICBwcmludGxuKGwxLm1hcCgoYTogSW50KSA9PiBhICogMikpCn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
